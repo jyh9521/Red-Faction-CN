@@ -52,6 +52,8 @@ Red Faction (2001) Simplified Chinese localization — source and translations.
 想拿去做繁体版、或者以此为基础做其他语言的本地化，随意——保留署名并同样开放就行。
 
 **`patches/apply_patch.py` 描述的是对 Alpine Faction（MPL-2.0）的修改。**
-打好补丁的完整源码见 [`rf-cn` 分支](../../tree/rf-cn)，遵循 MPL-2.0。
+打好补丁的完整源码在另一个仓库（Alpine Faction 的 fork）：
+<https://github.com/jyh9521/alpinefaction/tree/rf-cn>
+遵循 MPL-2.0。
 
 《红色派系》版权归 Volition 及 THQ Nordic 所有，本项目与两者无隶属关系。

@@ -6,8 +6,9 @@
 例外：
 
   patches/apply_patch.py 描述的是对 Alpine Faction 的修改。
-  Alpine Faction 遵循 Mozilla Public License 2.0，
-  打好补丁的完整源码见本仓库的 rf-cn 分支。
+  Alpine Faction 遵循 Mozilla Public License 2.0。
+  打好补丁的完整源码在 Alpine Faction 的 fork 上：
+      https://github.com/jyh9521/alpinefaction/tree/rf-cn
   MPL-2.0 全文见 LICENSE-MPL-2.0.txt。
 
   upstream-pr-veh/exception_logger.cpp 是提交给 Alpine Faction 上游的代码，
