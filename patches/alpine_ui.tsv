@@ -1,0 +1,100 @@
+file	en	zh
+game_patch/misc/ui.cpp	Visual	画面
+game_patch/misc/ui.cpp	Interface	界面
+game_patch/misc/ui.cpp	Input	输入
+game_patch/misc/ui.cpp	Misc	其他
+game_patch/misc/ui.cpp	Enemy bullets	敌方子弹
+game_patch/misc/ui.cpp	Lightmaps only	仅光照贴图
+game_patch/misc/ui.cpp	Weapon shake	武器抖动
+game_patch/misc/ui.cpp	Vertical sync	垂直同步
+game_patch/misc/ui.cpp	Max FPS	最大帧率
+game_patch/misc/ui.cpp	LOD scale	LOD 缩放
+game_patch/misc/ui.cpp	Gun FOV mod	武器视场修正
+game_patch/misc/ui.cpp	Simulation dist	模拟距离
+game_patch/misc/ui.cpp	Full light range	完整光照范围
+game_patch/misc/ui.cpp	Select spray	选择喷漆
+game_patch/misc/ui.cpp	View shake (SP)	视角抖动（单人）
+game_patch/misc/ui.cpp	Ricochet FX (MP)	跳弹特效（多人）
+game_patch/misc/ui.cpp	Fullbright models	全亮模型
+game_patch/misc/ui.cpp	Mesh lighting	网格光照
+game_patch/misc/ui.cpp	Anti-aliasing	抗锯齿
+game_patch/misc/ui.cpp	Horizontal FOV	水平视场
+game_patch/misc/ui.cpp	Light glares	光晕
+game_patch/misc/ui.cpp	Muzzle lights	枪口闪光
+game_patch/misc/ui.cpp	Entity LOD (MP)	实体 LOD（多人）
+game_patch/misc/ui.cpp	Nearest filtering	邻近过滤
+game_patch/misc/ui.cpp	Big HUD	大号 HUD
+game_patch/misc/ui.cpp	Hit numbers	伤害数字
+game_patch/misc/ui.cpp	Show FPS	显示帧率
+game_patch/misc/ui.cpp	Show ping	显示延迟
+game_patch/misc/ui.cpp	Damage flash	受伤闪烁
+game_patch/misc/ui.cpp	Death bars	死亡黑边
+game_patch/misc/ui.cpp	Location pings	位置标记
+game_patch/misc/ui.cpp	Reticle scale	准星缩放
+game_patch/misc/ui.cpp	CTF icons	夺旗图标
+game_patch/misc/ui.cpp	Overdraw flags	旗帜穿透显示
+game_patch/misc/ui.cpp	Overdraw CPs	控制点穿透显示
+game_patch/misc/ui.cpp	Scoreboard anim	计分板动画
+game_patch/misc/ui.cpp	Label teammates	队友标签
+game_patch/misc/ui.cpp	Minimal timer	精简计时器
+game_patch/misc/ui.cpp	Target names	目标名称
+game_patch/misc/ui.cpp	Show spectators	显示观战者
+game_patch/misc/ui.cpp	DirectInput	DirectInput
+game_patch/misc/ui.cpp	Linear pitch	线性俯仰
+game_patch/misc/ui.cpp	Swap AR	交换突击步枪键
+game_patch/misc/ui.cpp	Swap Grenade	交换手雷键
+game_patch/misc/ui.cpp	Swap Shotgun	交换霰弹枪键
+game_patch/misc/ui.cpp	Mouse sensitivity	鼠标灵敏度
+game_patch/misc/ui.cpp	Scanner modifier	扫描器灵敏度
+game_patch/misc/ui.cpp	Scope modifier	瞄准镜灵敏度
+game_patch/misc/ui.cpp	Linear scope	线性瞄准镜
+game_patch/misc/ui.cpp	Toggle crouch	切换蹲下
+game_patch/misc/ui.cpp	Hit sounds	命中音效
+game_patch/misc/ui.cpp	Taunt sounds	嘲讽音效
+game_patch/misc/ui.cpp	Autosave	自动存档
+game_patch/misc/ui.cpp	Join flash	加入提示闪烁
+game_patch/misc/ui.cpp	Pain sounds	受伤音效
+game_patch/misc/ui.cpp	Geo chunks	地形碎块
+game_patch/misc/ui.cpp	Team radio msgs	队伍电台消息
+game_patch/misc/ui.cpp	Global radio msgs	全局电台消息
+game_patch/misc/ui.cpp	Gaussian spread	高斯散布
+game_patch/misc/ui.cpp	Randomize bomb	随机炸弹
+game_patch/misc/ui.cpp	Exposure damage	暴露伤害
+game_patch/misc/ui.cpp	Gametype Help	模式说明
+game_patch/misc/ui.cpp	ADVANCED	高级
+game_patch/misc/ui.cpp	Mouse scale	鼠标缩放
+game_patch/misc/ui.cpp	Environment Sounds Multiplier	环境音效倍率
+game_patch/misc/ui.cpp	Enter new FOV value (0 for automatic scaling):	输入新的视场值（0 为自动缩放）：
+game_patch/misc/ui.cpp	Enter new FPGun FOV modifier value:	输入新的武器视场修正值：
+game_patch/misc/ui.cpp	Enter new mouse sensitivity value:	输入新的鼠标灵敏度：
+game_patch/misc/ui.cpp	Enter new scanner sensitivity modifier value:	输入新的扫描器灵敏度修正值：
+game_patch/misc/ui.cpp	Enter new scope sensitivity modifier value:	输入新的瞄准镜灵敏度修正值：
+game_patch/misc/ui.cpp	Enter new reticle scale value:	输入新的准星缩放值：
+game_patch/misc/ui.cpp	Enter new maximum FPS value:	输入新的最大帧率：
+game_patch/misc/ui.cpp	Enter new LOD distance scale value:	输入新的 LOD 距离缩放值：
+game_patch/misc/ui.cpp	Enter new simulation distance value:	输入新的模拟距离值：
+game_patch/input/key.cpp	Toggle Headlamp	切换头灯
+game_patch/input/key.cpp	Skip Cutscene	跳过过场
+game_patch/input/key.cpp	Respawn	重生
+game_patch/input/key.cpp	Vote Yes	投赞成票
+game_patch/input/key.cpp	Vote No	投反对票
+game_patch/misc/ui.cpp	Alpine Faction is NOT linked to a FactionFiles account!	Alpine Faction 未关联 FactionFiles 账号！
+game_patch/misc/ui.cpp	Linking enables achievements and map ratings.	关联后可使用成就和地图评分功能。
+game_patch/misc/ui.cpp	Visit alpinefaction.com/link to link your account.	访问 alpinefaction.com/link 关联账号。
+game_patch/input/key.cpp	Ready For Match	准备就绪
+game_patch/input/key.cpp	Drop Flag	丢弃旗帜
+game_patch/input/key.cpp	Radio Message Menu	电台消息菜单
+game_patch/input/key.cpp	Taunt Menu	嘲讽菜单
+game_patch/input/key.cpp	Command Menu	指令菜单
+game_patch/input/key.cpp	Ping Location	标记位置
+game_patch/input/key.cpp	Spectate Mode Menu	观战模式菜单
+game_patch/input/key.cpp	Suppress Autoswitch	抑制自动切换
+game_patch/input/key.cpp	Remote Server Config	远程服务器配置
+game_patch/input/key.cpp	Inspect Weapon	查看武器
+game_patch/input/key.cpp	Attach Spectate Camera	附加观战镜头
+game_patch/input/key.cpp	Toggle Spectate	切换观战
+game_patch/input/key.cpp	Change Spectate View	切换观战视角
+game_patch/input/key.cpp	Spray	喷漆
+game_patch/misc/ui.cpp	Join beep	加入提示音
+game_patch/input/key.cpp	Cycle Spectate Modes	切换观战模式
+game_patch/misc/ui.cpp	Alpine Faction is linked to FactionFiles as 	Alpine Faction 已关联 FactionFiles 账号：

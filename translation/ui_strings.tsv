@@ -1,0 +1,1021 @@
+file	key	context	tokens	en	zh
+endgame.tbl	gryphon	结局文本	\n \n \n \n \n	Your failure to protect Gryphon\ndoomed the rebellion.\nWithout the information\nonly he could provide,\nUltor's troops and the Plague\nwiped out Eos and the Red Faction.	你没能保护格里芬，导致了反抗军的覆灭。\n没有他才能提供的情报，乌尔托的部队和瘟疫消灭了伊欧丝和红色派系。
+endgame.tbl	eos	结局文本	\n \n \n \n \n	Eos, the leader of the Red Faction rebellion,\nis dead.\n\nWithout her leadership,\nUltor prevailed and\nwiped out the rest of the Red Faction.	红色派系反抗军的领袖伊欧丝已经死了。\n\n失去了她的领导后，乌尔托取得了胜利，并消灭了红色派系的残余力量。
+endgame.tbl	missile	结局文本	\n \n \n \n \n \n \n	By failing to destroy the missile command center,\nyou doomed your mission to reach\nthe space station.\nWith Ultor's planetary defense system intact,\nthe EDF fleet was destroyed\nbefore it could reach Mars.\n\nThe Red Faction rebellion failed.	你没能摧毁导弹指挥中心，导致前往空间站的任务彻底失败。\n乌尔托的行星防御系统仍完好无损，EDF舰队还没抵达火星就被摧毁了。\n\n红色派系反抗失败了。
+endgame.tbl	shuttle	结局文本	\n \n \n \n \n \n	Well, you missed the shuttle.\nBecause you didn't reach the space station\nin time to disable Ultor's planetary defense system,\nthe EDF fleet was destroyed\nbefore it could reach Mars.\n\nThe Red Faction rebellion failed.	好吧，你错过了航天飞机。\n由于你没能及时抵达空间站关闭乌尔托的行星防御系统，EDF舰队还没抵达火星就被摧毁了。\n\n红色派系反抗失败了。
+endgame.tbl	tech1	结局文本	\n \n \n \n \n \n \n \n \n \n \n	The death of this lowly technician,\ninsignificant as it might seem,\nhas doomed the Red Faction revolt.\n\nWithout his help,\nyou were unable to destroy\nthe geothermal power plant.\nUltor's monitoring system remained\nfully operational and enabled\nthe company's security forces\nto counter every move\nthe Red Faction forces made.	这名低级技术员的死亡，看似无关紧要，却注定了红色派系起义的失败。\n\n没有他的帮助，你无法摧毁地热发电厂。\n乌尔托的监控系统仍然正常运作，使公司的安保部队得以反制红色派系部队的每一次行动。
+endgame.tbl	train02_end	结局文本	\n \n \n	The Red Faction has no room for\nUltor sympathizers. \nWhen the revolution comes,\ntake care that you're on the right side.	红色派系容不下乌尔托的同情者。 \n革命到来之时，不要站错了队。
+endgame.tbl	capek_lab	结局文本	\n	Because of your inaction,\nEos died and the rebellion failed.	由于你的无所作为，\n伊欧丝死了，反抗也失败了。
+endgame.tbl	bomb_fail	结局文本	\n \n \n \n \n \n \n	When the bomb's timer expired,\na thermonuclear explosion of tremendous force\nvaporized everyone and every thing\nin the mining complex.\nUltor succeeded in ending the\nRed Faction rebellion and\nin destroying all evidence\nof its experiments on Mars.	炸弹计时器归零时，一场威力巨大的热核爆炸将采矿设施中的所有人和一切全部蒸发。\n乌尔托成功终结了红色派系的反抗，并摧毁了其在火星上进行实验的所有证据。
+endgame.tbl	missile_center	结局文本	\n \n \n \n \n \n	By allowing the technician to stop the missile \nlaunch, you enabled Ultor's missile defense \nsystem to stay operational.\nYou were unable to reach the space station to\ndisable Ultor's planetary defenses and\nthe incoming EDF fleet was destroyed.\nThe Red Faction rebellion failed.	你放任技术员阻止导弹发射，使乌尔托的导弹防御系统得以继续运作。\n你没能抵达空间站关闭乌尔托的行星防御系统，来袭的EDF舰队也被摧毁了。\n红色派系反抗失败了。
+endgame.tbl	escape_pod	结局文本	\n \n	You failed to reach the escape pod in time.\nYour death in the explosion of the space station\nspelled the end for the Red Faction rebellion.	你没能及时抵达逃生舱。\n你死于空间站爆炸，也宣告了红色派系反抗的终结。
+endgame.tbl	Undercover_Miner	结局文本	\n \n \n	By killing this miner, you lost any chance\nof infiltrating Ultor's Administrative offices.\nWithout the information Deputy Admin Gryphon\ncould provide, the rebellion failed.	杀死这名矿工后，你失去了潜入乌尔托行政办公室的一切机会。\n没有副行政主管格里芬提供的情报，反抗失败了。
+endgame.tbl	Hendrix_L19S3	结局文本	\n \n \n \n \n \n \n	Hendrix's death was the final nail\nin the Red Faction rebellion's coffin.\nWithout his technical expertise and\ninner knowledge of Ultor's systems,\nMasako and her mercenaries were able to\nescape from Mars and destroy the complex\nbehind them, erasing all evidence\nof Ultor's wrongdoing.	亨德里克斯的死，成了红色派系反抗棺材上的最后一颗钉子。\n没有他的技术专长，以及对乌尔托系统的内部了解，\n雅子和她的雇佣兵得以逃离火星，并摧毁身后的设施，抹去了乌尔托罪行的所有证据。
+strings.tbl	0			drill bit maintenance required	钻头需要维护
+strings.tbl	1			LOADING	载入中
+strings.tbl	2		\v183	Do not remove memory card (8MB) (for PlayStation\v183 2).	请勿移除记忆卡（8MB）（PlayStation\v183 2专用）。
+strings.tbl	3		%s	Press Fire (%s) to respawn.	按开火键 (%s) 重生。
+strings.tbl	4		末尾空格	Viewing from 	正在观看 
+strings.tbl	5			BODY	身体
+strings.tbl	6			ERROR	错误
+strings.tbl	7			Selected savegame could not be found.  Load failed.	找不到所选存档，读取失败。
+strings.tbl	8			GAME OVER	游戏结束
+strings.tbl	9			You have died.	你已死亡
+strings.tbl	10			Load Last Save	读取上次存档
+strings.tbl	11			Return to Main Menu	返回主菜单
+strings.tbl	12			ALERT	警告
+strings.tbl	13		\v183	Memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1 is unformatted. Format?	记忆卡插槽1中的记忆卡（8MB）（PlayStation\v183 2专用）尚未格式化，是否格式化？
+strings.tbl	14		\v183	Memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 2 is unformatted. Format?	记忆卡插槽2中的记忆卡（8MB）（PlayStation\v183 2专用）尚未格式化，是否格式化？
+strings.tbl	15			Savegame delete failed.	删除存档失败
+strings.tbl	16			DELETE	删除
+strings.tbl	17			Savegame deleted successfully.	已成功删除存档
+strings.tbl	18			WARNING	警告
+strings.tbl	19			Loading a saved game will end your current game.  Continue?	读取存档将结束当前游戏，是否继续？
+strings.tbl	20			Permanently delete saved game?	是否永久删除存档？
+strings.tbl	21			LOAD GAME	读取游戏
+strings.tbl	22			SAVE GAME	保存游戏
+strings.tbl	23			AREA	区域
+strings.tbl	24			DATE	日期
+strings.tbl	25			TIME	时间
+strings.tbl	26			HOURS	小时
+strings.tbl	27		\n  首部空格	 no\ncard	 无\n卡
+strings.tbl	28			Space Available:	可用空间：
+strings.tbl	29			Space Required:	所需空间：
+strings.tbl	30			Slots Available:	可用槽位：
+strings.tbl	31			<new savegame>	<新存档>
+strings.tbl	32		%s	%s Select	%s 选择
+strings.tbl	33		%s	%s Delete	%s 删除
+strings.tbl	34			FORMAT	格式化
+strings.tbl	35		\v183	Formatting memory card (8MB) (for PlayStation\v183 2).	正在格式化记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	36			An error occurred while formatting.  Format failed.	格式化时发生错误，格式化失败。
+strings.tbl	37			SAVING	保存中
+strings.tbl	38			Overwrite saved game?	是否覆盖存档？
+strings.tbl	39		\v183	Insufficient space on memory card (8MB) (for PlayStation\v183 2).  Save failed.	记忆卡（8MB）（PlayStation\v183 2专用）空间不足，保存失败。
+strings.tbl	40			Save failed.	保存失败
+strings.tbl	41			Game saved.	游戏已保存
+strings.tbl	42			NEW GAME	新游戏
+strings.tbl	43			OPTIONS	选项
+strings.tbl	44			EXTRAS	额外内容
+strings.tbl	45			TRAILER	预告片
+strings.tbl	46			QUIT	退出
+strings.tbl	47			MULTI	多人
+strings.tbl	48			TRAINING	训练
+strings.tbl	49			Credits	制作人员
+strings.tbl	50			QUIT GAME	退出游戏
+strings.tbl	51			Are you sure?	确定吗？
+strings.tbl	52			Choose Mode:	选择模式：
+strings.tbl	53			Player vs. Player	玩家对玩家
+strings.tbl	54			Player vs. Bots	玩家对机器人
+strings.tbl	55			Failed to load game.	读取游戏失败。
+strings.tbl	56		\v183 \n \n620 \n \n	No memory card (8MB) (for PlayStation\v183 2)\ndetected.  Red Faction requires at least\n620 KB to save game data. If you continue,\nyou may not be able to save your progress. \nContinue anyway?	未检测到记忆卡（8MB）（PlayStation\v183 2专用）。\n《红色派系》至少需要620 KB空间来保存游戏数据。\n如果继续，你可能无法保存进度。 \n仍要继续吗？
+strings.tbl	57		\n \v183 \n \n \n	There is insufficient free space on the memory\ncard (8MB) (for PlayStation\v183 2).  Red Faction\nrequires at least 620 KB to save game data. \nIf you continue, you may not be able to save\nyour progress.  Continue anyway?	记忆卡（8MB）（PlayStation\v183 2专用）上的可用空间不足。\n《红色派系》至少需要620 KB空间来保存游戏数据。 \n如果继续，你可能无法保存进度。\n仍要继续吗？
+strings.tbl	58			Retry	重试
+strings.tbl	59			Continue	继续
+strings.tbl	60			LOCKED	已锁定
+strings.tbl	61		%s	%s Change	%s 更改
+strings.tbl	62			CHARACTER	角色
+strings.tbl	63			ENVIRONMENT	环境
+strings.tbl	64			PLAYER 2	玩家2
+strings.tbl	65			Settings for Player 2 will be lost.  Continue?	玩家2的设置将会丢失，是否继续？
+strings.tbl	66			MP STATS	多人统计
+strings.tbl	67			Player	玩家
+strings.tbl	68			Kills	击杀
+strings.tbl	69			Deaths	死亡
+strings.tbl	70			Audio	音频
+strings.tbl	71			Accuracy	命中率
+strings.tbl	72		%s	%s Continue	%s 继续
+strings.tbl	73		%s	%s Replay Level	%s 重玩关卡
+strings.tbl	74		%s	%s Return to Main Menu	%s 返回主菜单
+strings.tbl	75			Start with gun?	开局持枪？
+strings.tbl	76			Yes	是
+strings.tbl	77			No	否
+strings.tbl	78			<no bots>	<无机器人>
+strings.tbl	79			1	1
+strings.tbl	80			2	2
+strings.tbl	81			3	3
+strings.tbl	82			4	4
+strings.tbl	83			5	5
+strings.tbl	84			6	6
+strings.tbl	85			Easy	简单
+strings.tbl	86			Medium	普通
+strings.tbl	87			Hard	困难
+strings.tbl	88			Impossible	不可能
+strings.tbl	89			<no limit>	<无限制>
+strings.tbl	90			15	15
+strings.tbl	91			25	25
+strings.tbl	92			50	50
+strings.tbl	93			1 minute	1分钟
+strings.tbl	94			5 minutes	5分钟
+strings.tbl	95			15 minutes	15分钟
+strings.tbl	96			25 minutes	25分钟
+strings.tbl	97			30 minutes	30分钟
+strings.tbl	98			Number of Bots:	机器人数量：
+strings.tbl	99			Skill Level:	技术水平：
+strings.tbl	100			Kill Limit:	击杀限制：
+strings.tbl	101			Time Limit:	时间限制：
+strings.tbl	102			Player 1 Options	玩家1选项
+strings.tbl	103			START GAME	开始游戏
+strings.tbl	104			Player 2 Options	玩家2选项
+strings.tbl	105			MP OPTIONS	多人选项
+strings.tbl	106			Space	空格
+strings.tbl	107			Accept	确认
+strings.tbl	108		%s	%s Enter Name	%s 输入名称
+strings.tbl	109		%s	%s Backspace	%s 退格
+strings.tbl	110		%s	%s Modify Name	%s 修改名称
+strings.tbl	111			PLAYER NAME	玩家名称
+strings.tbl	112			PLAYER 1	玩家1
+strings.tbl	113			Character	角色
+strings.tbl	114			Options	选项
+strings.tbl	115			Save Character	保存角色
+strings.tbl	116			Load Character	读取角色
+strings.tbl	117			Continue...	继续……
+strings.tbl	118			Start Game!	开始游戏！
+strings.tbl	119			Miner	矿工
+strings.tbl	120			Medic	医疗兵
+strings.tbl	121			Tech	技术员
+strings.tbl	122			Female Admin	女性行政人员
+strings.tbl	123			DIFFICULTY?	难度？
+strings.tbl	124			CONTROLS	控制
+strings.tbl	125			ADV CONTROLS	高级控制
+strings.tbl	126		\n  首部空格	   GAME\nSETTINGS	   游戏\n设置
+strings.tbl	127		\n	WEAPON\n  PREFS	武器\n  偏好
+strings.tbl	128			DISPLAY	显示
+strings.tbl	129			SOUND	声音
+strings.tbl	130		\n	Left:  Walk/Sidestep\nRight: Pitch/Turn	左：行走/横移\n右：俯仰/转向
+strings.tbl	131		\n	Left:  Pitch/Turn\nRight: Walk/Sidestep	左：俯仰/转向\n右：行走/横移
+strings.tbl	132		\n	Left:  Walk/Turn\nRight: Pitch/Sidestep	左：行走/转向\n右：俯仰/横移
+strings.tbl	133		\n	Left:  Pitch/Sidestep\nRight: Walk/Turn	左：俯仰/横移\n右：行走/转向
+strings.tbl	134			Analog Sticks:	模拟摇杆：
+strings.tbl	135			Invert Look Y-Axis:	反转视角Y轴：
+strings.tbl	136			X-Axis:	X轴：
+strings.tbl	137			Y-Axis:	Y轴：
+strings.tbl	138			DEFAULTS	默认
+strings.tbl	139			Reset to default settings?	是否重置为默认设置？
+strings.tbl	140			Done	完成
+strings.tbl	141			Reset to Defaults	重置为默认
+strings.tbl	142			ADV. CONTROLS	高级控制
+strings.tbl	143			Look Sensitivity	视角灵敏度
+strings.tbl	144			Modify	修改
+strings.tbl	145			Fire	开火
+strings.tbl	146			Alt Fire	副开火
+strings.tbl	147			Use	使用
+strings.tbl	148			Jump	跳跃
+strings.tbl	149			Crouch	蹲伏
+strings.tbl	150			Holster	收起武器
+strings.tbl	151			Reload	装填
+strings.tbl	152			Next Weapon	下一件武器
+strings.tbl	153			Prev Weapon	上一件武器
+strings.tbl	154			Fine Aim Mode	精确瞄准模式
+strings.tbl	155			Center View	视角居中
+strings.tbl	156			Message Log	消息记录
+strings.tbl	157			Preset A	预设A
+strings.tbl	158			Preset B	预设B
+strings.tbl	159			Preset C	预设C
+strings.tbl	160			Preset D	预设D
+strings.tbl	161			Custom	自定义
+strings.tbl	162			Presets	预设
+strings.tbl	163			Some controls are unbound.  Save anyway?	有些控制未被绑定，仍要保存？
+strings.tbl	164			PRESS NEW BUTTON	按下新按键
+strings.tbl	165			PRESETS:	预设：
+strings.tbl	166			Change Binding	更改绑定
+strings.tbl	167			Brightness:	亮度：
+strings.tbl	168			Crosshairs:	准星：
+strings.tbl	169			On	开
+strings.tbl	170			Off	关
+strings.tbl	171			Weapons Sway:	武器摆动：
+strings.tbl	172			Autoaim:	自动瞄准：
+strings.tbl	173			Closed Captioning:	隐藏字幕：
+strings.tbl	174			Weapons:	武器：
+strings.tbl	175			Environment:	环境：
+strings.tbl	176			Gore:	血腥：
+strings.tbl	177			GAME SETTINGS	游戏设置
+strings.tbl	178			Vibration	振动
+strings.tbl	179			Effects Volume:	音效音量：
+strings.tbl	180			Music Volume:	音乐音量：
+strings.tbl	181			Enabled:	启用：
+strings.tbl	182			Skip explosives:	跳过爆炸物：
+strings.tbl	183			Change Priorities:	更改优先级：
+strings.tbl	184			Rocket Launcher	火箭发射器
+strings.tbl	185			Assault Rifle	突击步枪
+strings.tbl	186			Pistol	手枪
+strings.tbl	187			Remote Charge	遥控炸药
+strings.tbl	188			Shoulder Cannon	肩扛炮
+strings.tbl	189			Heavy Machine Gun	重机枪
+strings.tbl	190			Railgun	磁轨枪
+strings.tbl	191			Sniper Rifle	狙击步枪
+strings.tbl	192			Flamethrower	火焰喷射器
+strings.tbl	193			Scope Assualt Rifle	带瞄准镜的突击步枪
+strings.tbl	194			Machine Pistol	冲锋手枪
+strings.tbl	195			Shotgun	霰弹枪
+strings.tbl	196			Grenades	手榴弹
+strings.tbl	197			Riot Stick	防暴棍
+strings.tbl	198			Riot Shield	防暴盾
+strings.tbl	199			WEAPON PREFS	武器偏好
+strings.tbl	200			Auto-switching	自动切换
+strings.tbl	201			Done moving	移动完成
+strings.tbl	202			Cancel	取消
+strings.tbl	203			Move weapon	移动武器
+strings.tbl	204			Press the START button	按下START按钮
+strings.tbl	205		%d	on controller %d to	在控制器%d上
+strings.tbl	206			continue.	继续
+strings.tbl	207			Please insert an analog	请插入模拟
+strings.tbl	208		\v183	controller (DUALSHOCK\v183 2)	控制器（DUALSHOCK\v183 2）
+strings.tbl	209		%d	into controller port %d.	到控制器端口%d
+strings.tbl	210			MESSAGES	消息
+strings.tbl	211			<< no messages >>	<< 无消息 >>
+strings.tbl	212			Ok	确定
+strings.tbl	213		\v183	Error reading memory card (8MB) (for PlayStation\v183 2).	读取记忆卡（8MB）（PlayStation\v183 2专用）时出错
+strings.tbl	214			Press spacebar to restart level	按空格键重新开始关卡
+strings.tbl	215			Save Player 1 Settings to MEMORY CARD slot 1?	是否将玩家1设置保存到记忆卡插槽1？
+strings.tbl	216			Save Player 2 Settings to MEMORY CARD slot 2?	是否将玩家2设置保存到记忆卡插槽2？
+strings.tbl	217		\v183 %s	Please insert a memory card (8MB) (for PlayStation\v183 2) into MEMORY CARD slot 1, or press %s to cancel.	请将记忆卡（8MB）（PlayStation\v183 2专用）插入记忆卡插槽1，或按%s取消
+strings.tbl	218		\v183 %s	Please insert a memory card (8MB) (for PlayStation\v183 2) into MEMORY CARD slot 2, or press %s to cancel.	请将记忆卡（8MB）（PlayStation\v183 2专用）插入记忆卡插槽2，或按%s取消
+strings.tbl	219		\v183	Formatting memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1.	正在格式化记忆卡插槽1中的记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	220		\v183	Formatting memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 2	正在格式化记忆卡插槽2中的记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	221		\v183	Do not remove memory card (8MB) (for PlayStation\v183 2) from MEMORY CARD slot 1.	请勿从记忆卡插槽1中移除记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	222		\v183	Do not remove memory card (8MB) (for PlayStation\v183 2) from MEMORY CARD slot 2.	请勿从记忆卡插槽2中移除记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	223			Player 1 saved successfully.	玩家1保存成功
+strings.tbl	224			Player 2 saved successfully.	玩家2保存成功
+strings.tbl	225			Player 1 save failed.	玩家1保存失败
+strings.tbl	226			Player 2 save failed.	玩家2保存失败
+strings.tbl	227			Basic Training	基础训练
+strings.tbl	228			Advanced Training	高级训练
+strings.tbl	229			Live Mines	实弹矿区
+strings.tbl	230			Mine Maintenance	矿区维护
+strings.tbl	231			Mine Entrance	矿井入口
+strings.tbl	232			Barracks Entrance	兵营入口
+strings.tbl	233			Barracks	兵营
+strings.tbl	234			Elevator to Registration	通往登记处的电梯
+strings.tbl	235			Miner Registration	矿工登记处
+strings.tbl	236			Registration Lobby	登记大厅
+strings.tbl	237			Docking Bay	停靠舱
+strings.tbl	238			Exit From Docking Bay	离开停靠舱
+strings.tbl	239			Abandoned Mine	废弃矿井
+strings.tbl	240			Crevasse	裂谷
+strings.tbl	241			Abandoned Smelter	废弃冶炼厂
+strings.tbl	242			Abandoned Ore Hopper	废弃矿石料斗
+strings.tbl	243			Abandoned Crusher	废弃破碎机
+strings.tbl	244			Ventilation Shaft	通风井
+strings.tbl	245			Plant Entrance	工厂入口
+strings.tbl	246			Geothermal Power Plant	地热发电厂
+strings.tbl	247			Sub Bay	潜艇舱
+strings.tbl	248			Underwater Research	水下研究所
+strings.tbl	249			Administration Entrance	行政区入口
+strings.tbl	250			Corporate HQ	公司总部
+strings.tbl	251			Executive Suites	行政套房
+strings.tbl	252			Maintenance Entrance	维护入口
+strings.tbl	253			Fighter Docking Bay	战机停靠舱
+strings.tbl	254			Fighter Testing Grounds	战机试验场
+strings.tbl	255			Refuse Disposal Plant	垃圾处理厂
+strings.tbl	256			Medical Research	医学研究所
+strings.tbl	257			Cryogenic Storage	低温储藏室
+strings.tbl	258			Capek's Lair	卡佩克的巢穴
+strings.tbl	259			Cavern Entrance	洞穴入口
+strings.tbl	260			Underwater Caverns	水下洞穴
+strings.tbl	261			The Artifact	神器
+strings.tbl	262			Waterfall!	瀑布！
+strings.tbl	263			Capek's Zoo	卡佩克的动物园
+strings.tbl	264			Icy Underwater Cavern	冰冷水下洞穴
+strings.tbl	265			Icy Sub Bay	冰冷潜艇舱
+strings.tbl	266			Worm Food	虫子的食物
+strings.tbl	267			Lab Entrance	实验室入口
+strings.tbl	268			Nanotech Lab	纳米技术实验室
+strings.tbl	269			Capek's Inner Sanctum	卡佩克的内殿
+strings.tbl	270			Grand Canyon	大峡谷
+strings.tbl	271			Dry Waterfall	干涸瀑布
+strings.tbl	272			Communications Center	通讯中心
+strings.tbl	273			Communications Tower	通讯塔
+strings.tbl	274			Shooting Gallery	射击场
+strings.tbl	275			Tramway Tunnel	电车隧道
+strings.tbl	276			Missile Command Center	导弹指挥中心
+strings.tbl	277			Stranded!	搁浅！
+strings.tbl	278			Ancient Riverbed	远古河床
+strings.tbl	279			Unexpected Cargo	意外货物
+strings.tbl	280			Space Station Hub	空间站枢纽
+strings.tbl	281			Satellite Control	卫星控制
+strings.tbl	282			Living Quarters	生活区
+strings.tbl	283			Crash Site	坠毁地点
+strings.tbl	284			Sniper Alley	狙击手小巷
+strings.tbl	285			A Bridge Too Far	遥不可及的桥
+strings.tbl	286			Merc Prison Cells	雇佣兵牢房
+strings.tbl	287			Merc Barracks	雇佣兵兵营
+strings.tbl	288			Merc Command Center	雇佣兵指挥中心
+strings.tbl	289			Merc Power Plant	雇佣兵发电厂
+strings.tbl	290			Docking Bay Entrance	停靠舱入口
+strings.tbl	291			Masako's Lair	雅子的巢穴
+strings.tbl	292			Finale	终章
+strings.tbl	293			Remote Charge	遥控炸药
+strings.tbl	294			Remote Charge picked up	已拾取遥控炸药
+strings.tbl	295		%d	%d Remote Charges picked up	已拾取%d个遥控炸药
+strings.tbl	296			Remote Charge	遥控炸药
+strings.tbl	297			Remote Charge picked up	已拾取遥控炸药
+strings.tbl	298		%d	%d Remote Charges picked up	已拾取%d个遥控炸药
+strings.tbl	299			Control Baton	控制警棍
+strings.tbl	300			Control Baton picked up	已拾取控制警棍
+strings.tbl	301			12mm Pistol	12毫米手枪
+strings.tbl	302			12mm pistol picked up	已拾取12毫米手枪
+strings.tbl	303			Silenced 12mm Pistol	消音12毫米手枪
+strings.tbl	304			12mm pistol with silencer picked up	已拾取消音12毫米手枪
+strings.tbl	305			Automatic Shotgun	自动霰弹枪
+strings.tbl	306			Automatic Shotgun picked up	已拾取自动霰弹枪
+strings.tbl	307			Sniper Rifle	狙击步枪
+strings.tbl	308			Sniper Rifle picked up	已拾取狙击步枪
+strings.tbl	309			Rocket Launcher	火箭发射器
+strings.tbl	310			Rocket Launcher picked up	已拾取火箭发射器
+strings.tbl	311			Assault Rifle	突击步枪
+strings.tbl	312			Assault Rifle picked up	已拾取突击步枪
+strings.tbl	313			Submachine Gun	冲锋枪
+strings.tbl	314			Submachine Gun picked up	已拾取冲锋枪
+strings.tbl	315			Grenade	手榴弹
+strings.tbl	316			Grenade picked up	已拾取手榴弹
+strings.tbl	317		%d	%d Grenades picked up	已拾取%d枚手榴弹
+strings.tbl	318			Flamethrower	火焰喷射器
+strings.tbl	319			Flamethrower picked up	已拾取火焰喷射器
+strings.tbl	320			Riot Shield	防暴盾
+strings.tbl	321			Riot Shield picked up	已拾取防暴盾
+strings.tbl	322			Rail Driver	磁轨枪
+strings.tbl	323			Rail Driver picked up	已拾取磁轨枪
+strings.tbl	324			Heavy Machine Gun	重机枪
+strings.tbl	325			Heavy Machine Gun picked up	已拾取重机枪
+strings.tbl	326			Precision Rifle	精确步枪
+strings.tbl	327			Precision Rifle picked up	已拾取精确步枪
+strings.tbl	328			Fusion Rocket Launcher	聚变火箭发射器
+strings.tbl	329			Fusion Rocket Launcher picked up	已拾取聚变火箭发射器
+strings.tbl	330			12mm rounds	12毫米弹药
+strings.tbl	331			1 12mm round picked up	已拾取1发12毫米弹药
+strings.tbl	332		%d	%d 12mm rounds picked up	已拾取%d发12毫米弹药
+strings.tbl	333			5.56mm rounds	5.56毫米弹药
+strings.tbl	334			1 5.56mm round picked up	已拾取1发5.56毫米弹药
+strings.tbl	335		%d	%d 5.56mm rounds picked up	已拾取%d发5.56毫米弹药
+strings.tbl	336			7.62mm rounds	7.62毫米弹药
+strings.tbl	337			1 7.62mm round picked up	已拾取1发7.62毫米弹药
+strings.tbl	338		%d	%d 7.62mm rounds picked up	已拾取%d发7.62毫米弹药
+strings.tbl	339			explosive 5.56mm rounds	爆炸5.56毫米弹药
+strings.tbl	340			1 Precision Rifle round picked up	已拾取1发精确步枪弹药
+strings.tbl	341		%d	%d Precision Rifle rounds picked up	已拾取%d发精确步枪弹药
+strings.tbl	342			10 gauge shells	10号霰弹
+strings.tbl	343			1 Shotgun shell picked up	已拾取1发霰弹枪弹药
+strings.tbl	344		%d	%d Shotgun shells picked up	已拾取%d发霰弹枪弹药
+strings.tbl	345			.50 caliber rounds	.50口径弹药
+strings.tbl	346			1 Sniper Rifle round picked up	已拾取1发狙击步枪弹药
+strings.tbl	347		%d	%d Sniper Rifle rounds picked up	已拾取%d发狙击步枪弹药
+strings.tbl	348			fuel canisters	燃料罐
+strings.tbl	349			1 fuel canister picked up	已拾取1个燃料罐
+strings.tbl	350		%d	%d fuel canisters picked up	已拾取%d个燃料罐
+strings.tbl	351			rockets	火箭弹
+strings.tbl	352			1 rocket picked up	已拾取1枚火箭弹
+strings.tbl	353		%d	%d rockets picked up	已拾取%d枚火箭弹
+strings.tbl	354			Rail Driver rounds	磁轨枪弹药
+strings.tbl	355			1 Rail Driver round picked up	已拾取1发磁轨枪弹药
+strings.tbl	356		%d	%d Rail Driver rounds picked up	已拾取%d发磁轨枪弹药
+strings.tbl	357			Control Baton Battery	控制警棍电池
+strings.tbl	358			1 Control Baton battery picked up	已拾取1块控制警棍电池
+strings.tbl	359		%d	%d Control Baton batteries picked up	已拾取%d块控制警棍电池
+strings.tbl	360			Medical Kit	医疗包
+strings.tbl	361			Medical Kit picked up	已拾取医疗包
+strings.tbl	362			First Aid Kit	急救包
+strings.tbl	363			First Aid Kit picked up	已拾取急救包
+strings.tbl	364			Envirosuit Armor	环境服护甲
+strings.tbl	365			Envirosuit Armor picked up	已拾取环境服护甲
+strings.tbl	366			Miner Envirosuit	矿工环境服
+strings.tbl	367			Miner Envirosuit picked up	已拾取矿工环境服
+strings.tbl	368			Doctor's Clothing	医生服
+strings.tbl	369			Doctor's Clothing picked up	已拾取医生服
+strings.tbl	370			Nano canister	纳米罐
+strings.tbl	371			Nano canister picked up	已拾取纳米罐
+strings.tbl	372			Keycard	钥匙卡
+strings.tbl	373			Keycard picked up	已拾取钥匙卡
+strings.tbl	374			Shouldn't be using this	不该使用这个
+strings.tbl	375		\v183	Please insert an analog controller (DUALSHOCK\v183 2) into controller port 2 and try again.	请将模拟控制器（DUALSHOCK\v183 2）插入控制器端口2，然后重试。
+strings.tbl	376			Preset E	预设E
+strings.tbl	377			Preset F	预设F
+strings.tbl	378			Preset G	预设G
+strings.tbl	379			Preset H	预设H
+strings.tbl	380			Turn	转向
+strings.tbl	381			Pitch	俯仰
+strings.tbl	382			Sidestep	横移
+strings.tbl	383			Walk	行走
+strings.tbl	384			Kills:	击杀：
+strings.tbl	385			Rank:	排名：
+strings.tbl	386		%s	Press %s to continue.	按%s继续
+strings.tbl	387			DVD retrying read	DVD正在重试读取
+strings.tbl	388			Select an option.	选择一个选项
+strings.tbl	389		\n	SUMMONER\nTRAILER	召唤者\n预告片
+strings.tbl	390		\n \v183 \n %d	An unformatted memory card (8MB) (for\nPlayStation\v183 2) was detected in MEMORY CARD\nslot %d.  Would you like to format it now?	在记忆卡插槽%d中检测到\n未格式化的记忆卡（8MB）\n（PlayStation\v183 2专用），是否现在格式化？
+strings.tbl	391			No Red Faction saved games were found.	未找到《红色派系》存档。
+strings.tbl	392		\n \n \v183	Please insert a\nmemory card (8MB)\n(for PlayStation\v183 2).	请插入\n记忆卡（8MB）\n（PlayStation\v183 2专用）
+strings.tbl	393		\v183	No memory card (8MB) (for PlayStation\v183 2) detected.	未检测到记忆卡（8MB）（PlayStation\v183 2专用）
+strings.tbl	394			Game over.	游戏结束
+strings.tbl	395			10	10
+strings.tbl	396			20	20
+strings.tbl	397			30	30
+strings.tbl	398			35	35
+strings.tbl	399			40	40
+strings.tbl	400			45	45
+strings.tbl	401			10 minutes	10分钟
+strings.tbl	402			20 minutes	20分钟
+strings.tbl	403			35 minutes	35分钟
+strings.tbl	404			40 minutes	40分钟
+strings.tbl	405			45 minutes	45分钟
+strings.tbl	406			50 minutes	50分钟
+strings.tbl	407			HUD Messages:	HUD消息：
+strings.tbl	408			Load Player Settings from MEMORY CARD slot 1?	是否从记忆卡插槽1读取玩家设置？
+strings.tbl	409			Player 1 loaded successfully.	玩家1读取成功
+strings.tbl	410		\v183	No player settings found on memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1.	记忆卡插槽1中的记忆卡（8MB）（PlayStation\v183 2专用）上未找到玩家设置
+strings.tbl	411		\n \v183 \n %d	An unformatted memory card (8MB) (for\nPlayStation\v183 2) was detected in MEMORY CARD\nslot %d.  Would you like to format it now?	在记忆卡插槽%d中检测到\n未格式化的记忆卡（8MB）\n（PlayStation\v183 2专用）。是否现在格式化？
+strings.tbl	412			Video	视频
+strings.tbl	413			AUDIO / VIDEO	音频 / 视频
+strings.tbl	414		\n  首部空格	   LOAD\nSETTINGS	   读取\n设置
+strings.tbl	415			Longest	最长
+strings.tbl	416			Killing Spree	连杀
+strings.tbl	417			Player	玩家
+strings.tbl	418			Kills	击杀
+strings.tbl	419		%s %s %s	Elapsed time: %s:%s:%s	经过时间：%s:%s:%s
+strings.tbl	420			Attention!	注意！
+strings.tbl	421			DirectX failed to initialize.  DirectX v8.0 or higher is required in order to play Red Faction.	DirectX初始化失败，游玩红色派系需要DirectX v8.0或更高版本
+strings.tbl	422		\n \n	You must allow Setup to configure your default settings before playing Red Faction for the first time.\n\nTo do this, press the 'Setup' button from the main menu and examine each tab.  Then, press the 'OK' button at the bottom.	首次游玩《红色派系》前，必须允许设置程序配置你的默认设置。\n\n请在主菜单中按下“设置”按钮，并查看每个选项卡。\n然后，按下底部的“确定”按钮。
+strings.tbl	423			No Rendering Device Selected!	未选择渲染设备！
+strings.tbl	424		\n \n	You must allow Setup to configure your Video Card setting before playing Red Faction.\n\nTo do this, press the 'Setup' button from the main menu and click on the Video Tab.  Then, press the 'Detect Available Cards' button and choose your video mode.  Finally, press the 'OK' button at the bottom.	游玩《红色派系》前，必须允许设置程序配置你的显卡设置。\n\n请在主菜单中按下“设置”按钮，并点击“视频”选项卡。\n然后，按下“检测可用显卡”按钮并选择你的视频模式。\n最后，按下底部的“确定”按钮。
+strings.tbl	425			DirectX 8.0 or higher Required!	需要DirectX 8.0或更高版本！
+strings.tbl	426		\n \n	You must install DirectX 8.0 or higher to run Red Faction.\n\nTo do this, press the 'Setup' button from the main menu and click on the 'DirectX' tab and follow the direction on it.	必须安装DirectX 8.0或更高版本才能运行《红色派系》。\n\n请在主菜单中按下“设置”按钮，点击“DirectX”选项卡，并按照其中的说明操作。
+strings.tbl	427			Error Launching Red Faction	启动《红色派系》时出错
+strings.tbl	428			Setup	设置
+strings.tbl	429			Error Loading README.TXT	读取README.TXT时出错
+strings.tbl	430			No uninstall information found.	未找到卸载信息
+strings.tbl	431			Couldn't Uninstall	无法卸载
+strings.tbl	432		%s	Are you sure you want to delete '%s' and all of its components?	确定要删除“%s”及其所有组件吗？
+strings.tbl	433			Confirm File Deletion	确认删除文件
+strings.tbl	434			Error Launching Uninstaller	启动卸载程序时出错
+strings.tbl	435			Welcome to Red Faction!	欢迎来到《红色派系》！
+strings.tbl	436		\n \n \n \n \n \n	Since this is your first time running Red Faction, you will now be automatically taken to the Setup window.  \n\nNOTE TO USER:\nIt is important that you view each section of the Setup window and configure it to your liking.  Once you are satisfied with your settings, select the OK button at the bottom of the Setup window to save them.\n\nRed Faction requires DirectX 8 to be installed in order to properly run.\nPlease view the DirectX tab in the Setup window for more information.	由于这是你第一次运行《红色派系》，现在将自动打开设置窗口。  \n\n用户须知：\n请务必查看设置窗口的每个部分，并按个人喜好进行配置。设置满意后，请选择设置窗口底部的“确定”按钮进行保存。\n\n《红色派系》需要安装DirectX 8才能正常运行。\n请查看设置窗口中的DirectX选项卡以了解更多信息。
+strings.tbl	437			launcher_help.txt	launcher_help.txt
+strings.tbl	438			Network	网络
+strings.tbl	439			Internet Connection	互联网连接
+strings.tbl	440			Connection Speed	连接速度
+strings.tbl	441			None Specified	未指定
+strings.tbl	442			56K Modem	56K调制解调器
+strings.tbl	443			ISDN	ISDN
+strings.tbl	444			Cable/DSL	有线/DSL
+strings.tbl	445			T1/LAN	T1/LAN
+strings.tbl	446			Other (specify in bytes per second)	其他（以每秒字节数指定）
+strings.tbl	447			Multiplay/Online Account	多人/在线账号
+strings.tbl	448			Login	登录名
+strings.tbl	449			Password	密码
+strings.tbl	450			Skip version check in PXO	跳过PXO版本检查
+strings.tbl	451			Chat Banners	聊天横幅
+strings.tbl	452			Misc	杂项
+strings.tbl	453			Force local port	强制本地端口
+strings.tbl	454			Setup	设置
+strings.tbl	455			None	无
+strings.tbl	456			You must select a download site.	必须选择一个下载站点
+strings.tbl	457			Site Selection	站点选择
+strings.tbl	458			Site Name	站点名称
+strings.tbl	459			URL	URL
+strings.tbl	460			Location	位置
+strings.tbl	461			Patch Download Site Selection	补丁下载站点选择
+strings.tbl	462			Select the site you wish to download from:	选择你要下载的站点：
+strings.tbl	463			The site info file could not be opened and parsed.	无法打开并解析站点信息文件
+strings.tbl	464			Speed	速度
+strings.tbl	465			Low	低
+strings.tbl	466			Medium	中
+strings.tbl	467			High	高
+strings.tbl	468		%d \n	%d MHz\n	%d MHz\n
+strings.tbl	469		%d	%d MB	%d MB
+strings.tbl	470		%d	%d MB/s	%d MB/s
+strings.tbl	471		%d \n	%d MB/s\n	%d MB/s\n
+strings.tbl	472			unknown	未知
+strings.tbl	473			Default Detail Level:	默认细节等级：
+strings.tbl	474			Properties	属性
+strings.tbl	475			CPU Type:	CPU类型：
+strings.tbl	476			CPU Speed:	CPU速度：
+strings.tbl	477			Total RAM:	总内存：
+strings.tbl	478			RAM Transfer Rate:	内存传输率：
+strings.tbl	479			VRAM Transfer Rate:	显存传输率：
+strings.tbl	480			3D Graphics Accelerator*:	3D图形加速器*：
+strings.tbl	481			*Configured in the 'Video' tab.	*在“视频”选项卡中配置。
+strings.tbl	482		\n \n \n	The Red Faction Launcher needs to be updated to a newer version.\nHowever, the replacement executable or patch file could not be accessed.\n\nTherefore, the Launcher cannot be updated at this time.	《红色派系》启动器需要更新到较新版本。\n但是，无法访问替换用可执行文件或补丁文件。\n\n因此，目前无法更新启动器。
+strings.tbl	483			Launcher Update	启动器更新
+strings.tbl	484		\n \n \n	The Red Faction Launcher needs to be updated to a newer version.\nHowever, the Update Launcher executable could not be found (or could not be accessed).\n\nTherefore, the Launcher cannot be updated at this time.	《红色派系》启动器需要更新到较新版本。\n但是，找不到更新启动器的可执行文件（或无法访问）。\n\n因此，目前无法更新启动器。
+strings.tbl	485		\n \n \n	The Red Faction Launcher needs to be updated to a newer version.\nIt will now be shutdown, modified, and then restarted.\n\nThis may take several seconds...	《红色派系》启动器需要更新到较新版本。\n它现在将关闭、修改，然后重新启动。\n\n这可能需要几秒钟……
+strings.tbl	486			Red Faction Auto-Update	《红色派系》自动更新
+strings.tbl	487			Message of the Day:	今日消息：
+strings.tbl	488			Your Version:	当前版本：
+strings.tbl	489			Latest Version:	最新版本：
+strings.tbl	490			Progress:	进度：
+strings.tbl	491			Status:	状态：
+strings.tbl	492			Error opening version info file	打开版本信息文件时出错
+strings.tbl	493			Error!	错误！
+strings.tbl	494			Up to date	已是最新
+strings.tbl	495			Waiting for User	等待用户
+strings.tbl	496			Select Patch Download Site	选择补丁下载站点
+strings.tbl	497			Patching Failed!!	补丁失败！！
+strings.tbl	498			Connecting	正在连接
+strings.tbl	499			Downloading File	正在下载文件
+strings.tbl	500			URL redirected	URL已重定向
+strings.tbl	501			Download Cancelled	下载已取消
+strings.tbl	502			File not Found Error	文件未找到错误
+strings.tbl	503		%d	File Download HTTP error.  Status code: %d	文件下载HTTP错误。状态码：%d
+strings.tbl	504			Error trying to write file	尝试写入文件时出错
+strings.tbl	505			Sorry, there is no message of the day.	抱歉，今日没有消息。
+strings.tbl	506			Unable to continue!!  Press Cancel.	无法继续！！请按取消。
+strings.tbl	507			Unable to continue	无法继续
+strings.tbl	508			Downloading MOTD File	正在下载MOTD文件
+strings.tbl	509			Downloading Version Info File	正在下载版本信息文件
+strings.tbl	510			Downloading Sites File	正在下载站点文件
+strings.tbl	511			Unable to read sites from version.nfo	无法从version.nfo读取站点
+strings.tbl	512			Downloading Patch File	正在下载补丁文件
+strings.tbl	513		%d %d %d	Download %d bytes of %d  (%d%%)	已下载%d字节，共%d字节  (%d%%)
+strings.tbl	514			Need to run Red Faction first to set version info.	需要先运行《红色派系》以设置版本信息
+strings.tbl	515			Press OK to download the new version of Red Faction!!	按确定下载新版《红色派系》！！
+strings.tbl	516			A new version of Red Faction is available!!!  Press the OK button to download it.	发现新版《红色派系》！！！按确定按钮下载。
+strings.tbl	517			Determination: No Update Necessary	判断结果：无需更新
+strings.tbl	518		%d %02d	Your Red Faction version %d.%02d is currently up to date.	你的《红色派系》版本%d.%02d目前已是最新
+strings.tbl	519			Could not get data from website	无法从网站获取数据
+strings.tbl	520			Patching Error	补丁错误
+strings.tbl	521		%s \n \n	Original '%s' contents do not match, update aborted.  Re-installing may be necessary.  \n\n	原始“%s”的内容不匹配，更新已中止。可能需要重新安装。  \n\n
+strings.tbl	522			If problem persists, please contact rf_pcdemo@volition-inc.com.	如果问题仍然存在，请联系 rf_pcdemo@volition-inc.com。
+strings.tbl	523		%s \n \n	Original '%s' not found, update aborted.  Re-installing may be necessary.  \n\n	未找到原始“%s”，更新已中止。可能需要重新安装。  \n\n
+strings.tbl	524		%s	Processing %s	正在处理%s
+strings.tbl	525			File Complete!	文件完成！
+strings.tbl	526			Searching for systems to update...	正在搜索需要更新的系统……
+strings.tbl	527			Patching Failed!	补丁失败！
+strings.tbl	528			Patch Library not found.	未找到补丁库。
+strings.tbl	529			Patch Library not found.  Cannot Patch Red Faction.	未找到补丁库，无法修补《红色派系》。
+strings.tbl	530			Beginning Patching...	正在开始打补丁……
+strings.tbl	531			Patching Complete!	补丁完成！
+strings.tbl	532			Detect D3D	检测D3D
+strings.tbl	533			Selected Video Card:	已选择显卡：
+strings.tbl	534			A 3D accelerated video card must be selected in order to run Red Faction.  Select your desired renderer from the above drop-down list.	必须选择一张3D加速显卡才能运行《红色派系》，请从上方下拉列表中选择所需渲染器。
+strings.tbl	535			Detect Available Cards	检测可用显卡
+strings.tbl	536			Options:	选项：
+strings.tbl	537			Detect Direct3D	检测Direct3D
+strings.tbl	538			No 3D acceleration	无3D加速
+strings.tbl	539			Red Faction requires Direct3D hardware accleration. You will not be able to run Red Faction without it	《红色派系》需要Direct3D硬件加速，否则将无法运行。
+strings.tbl	540			Warning!	警告！
+strings.tbl	541		\n	Red Faction requires Detonator 3 video drivers version 6.50 (or greater) in order to work correctly, and has detected older video drivers on your computer.  You may experience problems running Red Faction unless you upgrade your video drivers first.\n	《红色派系》需要Detonator 3显卡驱动6.50版（或更高版本）才能正常运行，并检测到你的电脑上安装了旧版显卡驱动。除非先升级显卡驱动，否则运行《红色派系》时可能会遇到问题。\n
+strings.tbl	542		\n	Red Faction has detected that your video drivers may be out of date.  You may experience problems or visual glitches running Red Faction unless you upgrade your video drivers first.\n	《红色派系》检测到你的显卡驱动可能已经过期。除非先升级显卡驱动，否则运行《红色派系》时可能会遇到问题或图像异常。\n
+strings.tbl	543			OK	确定
+strings.tbl	544			Cancel	取消
+strings.tbl	545			Apply	应用
+strings.tbl	546			Red Faction Launcher Help	《红色派系》启动器帮助
+strings.tbl	547			Begin Download	开始下载
+strings.tbl	548			Audio	音频
+strings.tbl	549			No Sound	无声音
+strings.tbl	550			DirectSound	DirectSound
+strings.tbl	551			EAX	EAX
+strings.tbl	552			no sound	无声音
+strings.tbl	553			Currently Selected Sound Card	当前选择的声卡
+strings.tbl	554			Detect Available Sound Cards	检测可用声卡
+strings.tbl	555			Enable Launcher Sounds	启用启动器音效
+strings.tbl	556			DirectX	DirectX
+strings.tbl	557			Up to Date	已是最新
+strings.tbl	558			Update Required	需要更新
+strings.tbl	559			Need to Install	需要安装
+strings.tbl	560		\n %s \n \n	Windows NT has DirectX built in.  If you are running NT 4.0 you should have Service Pack 3 (SP3) or later installed.  For detailed information on NT Service Packs (including download links), go to:\n%s.\n\nDo you want to go to this link?	Windows NT内置DirectX。如果你使用的是NT 4.0，应已安装Service Pack 3 (SP3)或更高版本。有关NT服务包的详细信息（包括下载链接），请访问：\n%s。\n\n是否前往此链接？
+strings.tbl	561		\n \n \n \n	Your version of DirectX is less than 8.0.  It is recommended that you install DirectX 8.0 on your system.\n\nDo you want to install DirectX 8.0?\n\n	你的DirectX版本低于8.0。建议在系统中安装DirectX 8.0。\n\n是否安装DirectX 8.0？\n\n
+strings.tbl	562		\n \n %s \n \n	Your version of DirectX is up to date.\nFor detailed information on the latest version of DirectX (including download links), go to:\n%s.\n\nDo you want to go to this link?	你的DirectX版本已是最新。\n有关DirectX最新版本的详细信息（包括下载链接），请访问：\n%s。\n\n是否前往此链接？
+strings.tbl	563			DirectX Version Info	DirectX版本信息
+strings.tbl	564			Your DirectX Version	你的DirectX版本
+strings.tbl	565			Your Version Status	你的版本状态
+strings.tbl	566			Red Faction requires DirectX 8.0	《红色派系》需要DirectX 8.0
+strings.tbl	567			Install/Update DirectX	安装/更新DirectX
+strings.tbl	568			Error: URL could not be parsed	错误：无法解析URL
+strings.tbl	569			Error: Site redirects with no new location	错误：站点重定向但没有新位置
+strings.tbl	570			Error: the redirected URL could not be parsed.	错误：无法解析重定向后的URL。
+strings.tbl	571		末尾空格	Insufficient disk space to download file: 	磁盘空间不足，无法下载文件：
+strings.tbl	572			Error trying to download file	尝试下载文件时出错
+strings.tbl	573			Red Faction Demo Launcher	《红色派系》试玩版启动器
+strings.tbl	574			Red Faction Launcher	《红色派系》启动器
+strings.tbl	575			The operating system is out of memory or resources.	操作系统内存或资源不足。
+strings.tbl	576			The .EXE file is invalid (non-Win32 .EXE or error in .EXE image).	.EXE文件无效（非Win32 .EXE，或.EXE镜像错误）。
+strings.tbl	577		末尾空格	The operating system denied access to the specified file. 	操作系统拒绝访问指定文件。
+strings.tbl	578		\n	The filename association is incomplete or invalid.\r\n(You need to have a default Internet browser installed)	文件名关联不完整或无效。\r\n（你需要安装默认互联网浏览器）
+strings.tbl	579			The DDE transaction could not be completed because other DDE transactions were being processed.	DDE事务无法完成，因为正在处理其他DDE事务。
+strings.tbl	580			The DDE transaction failed.	DDE事务失败。
+strings.tbl	581			The DDE transaction could not be completed because the request timed out.	DDE事务无法完成，因为请求超时。
+strings.tbl	582			The specified dynamic-link library was not found.	找不到指定的动态链接库。
+strings.tbl	583			There was not enough memory to complete the operation.	内存不足，无法完成操作。
+strings.tbl	584			A sharing violation occurred.	发生共享冲突。
+strings.tbl	585		\n \n \n \n	\r\nNo web browser found.  There isn't one installed or if \r\none is installed, it isn't set to be the default browser.\r\n\r\n	\r\n未找到网页浏览器。可能没有安装浏览器，或\r\n已安装但未设为默认浏览器。\r\n\r\n
+strings.tbl	586			Unknown error occurred.	发生未知错误。
+strings.tbl	587			Red Faction CD #1 not located.  Please insert Red Faction CD #1 and select OK to continue.	未找到《红色派系》CD #1。请插入《红色派系》CD #1并选择确定继续。
+strings.tbl	588			Error reading CD.	读取CD时出错。
+strings.tbl	589			Misc.	杂项
+strings.tbl	590			Select Language	选择语言
+strings.tbl	591			English	英语
+strings.tbl	592			German	德语
+strings.tbl	593			Optional Command Line	可选命令行
+strings.tbl	594			Detect	检测
+strings.tbl	595			Control Baton and battery picked up	已拾取控制警棍和电池
+strings.tbl	596		%d	Control Baton and %d batteries picked up	已拾取控制警棍和%d块电池
+strings.tbl	597			12mm Pistol and 1 12mm round picked up	已拾取12毫米手枪和1发12毫米弹药
+strings.tbl	598		%d	12mm Pistol and %d 12mm rounds picked up	已拾取12毫米手枪和%d发12毫米弹药
+strings.tbl	599			Silenced 12mm Pistol and 1 12mm round picked up	已拾取消音12毫米手枪和1发12毫米弹药
+strings.tbl	600		%d	Silenced 12mm Pistol and %d 12mm rounds picked up	已拾取消音12毫米手枪和%d发12毫米弹药
+strings.tbl	601			Automatic Shotgun and 1 shell picked up	已拾取自动霰弹枪和1发霰弹
+strings.tbl	602		%d	Automatic Shotgun and %d shells picked up	已拾取自动霰弹枪和%d发霰弹
+strings.tbl	603			Sniper Rifle and 1 round picked up	已拾取狙击步枪和1发弹药
+strings.tbl	604		%d	Sniper Rifle and %d rounds picked up	已拾取狙击步枪和%d发弹药
+strings.tbl	605			Rocket Launcher and 1 rocket picked up	已拾取火箭发射器和1枚火箭弹
+strings.tbl	606		%d	Rocket Launcher and %d rockets picked up	已拾取火箭发射器和%d枚火箭弹
+strings.tbl	607			Assault Rifle and 1 5.56mm round picked up	已拾取突击步枪和1发5.56毫米弹药
+strings.tbl	608		%d	Assault Rifle and %d 5.56mm rounds picked up	已拾取突击步枪和%d发5.56毫米弹药
+strings.tbl	609			Submachine Gun and 1 12mm round picked up	已拾取冲锋枪和1发12毫米弹药
+strings.tbl	610		%d	Submachine Gun and %d 12mm rounds picked up	已拾取冲锋枪和%d发12毫米弹药
+strings.tbl	611			Flamethrower and 1 fuel canister picked up	已拾取火焰喷射器和1个燃料罐
+strings.tbl	612		%d	Flamethrower and %d fuel canisters picked up	已拾取火焰喷射器和%d个燃料罐
+strings.tbl	613			Rail Driver and 1 round picked up	已拾取磁轨枪和1发弹药
+strings.tbl	614		%d	Rail Driver and %d rounds picked up	已拾取磁轨枪和%d发弹药
+strings.tbl	615			Heavy Machine Gun and 1 7.62mm round picked up	已拾取重机枪和1发7.62毫米弹药
+strings.tbl	616		%d	Heavy Machine Gun and %d 7.62mm rounds picked up	已拾取重机枪和%d发7.62毫米弹药
+strings.tbl	617			Precision Rifle and 1 round picked up	已拾取精确步枪和1发弹药
+strings.tbl	618		%d	Precision Rifle and %d rounds picked up	已拾取精确步枪和%d发弹药
+strings.tbl	619			Fusion Rocket Launcher and 1 shell picked up	已拾取聚变火箭发射器和1发炮弹
+strings.tbl	620		%d	Fusion Rocket Launcher and %d shells picked up	已拾取聚变火箭发射器和%d发炮弹
+strings.tbl	621			Did you hear the woman's voice?	你听到那个女人的声音了吗？
+strings.tbl	622			Audio Test	音频测试
+strings.tbl	623			Test Sound Card	测试声卡
+strings.tbl	624			Please refer to the 'README.TXT' file for more information about ADPCM installation	有关ADPCM安装的更多信息，请参阅“README.TXT”文件
+strings.tbl	625			Installing Microsoft ADPCM audio compression codec	正在安装Microsoft ADPCM音频压缩编解码器
+strings.tbl	626			Enable EAX	启用EAX
+strings.tbl	627			Updating the Red Faction Launcher...	正在更新《红色派系》启动器……
+strings.tbl	628			Please Wait.	请稍候。
+strings.tbl	629			ERROR: This program was executed outside of the Red Faction Launcher!	错误：此程序是在《红色派系》启动器外执行的！
+strings.tbl	630		%s	ERROR: Could not find file:  %s	错误：找不到文件：%s
+strings.tbl	631		%s	ERROR: Could not access file:  %s	错误：无法访问文件：%s
+strings.tbl	632		%s	ERROR: Could not delete file:  %s	错误：无法删除文件：%s
+strings.tbl	633		%s	ERROR: Could not rename file:  %s	错误：无法重命名文件：%s
+strings.tbl	634			ERROR: The patch application function could not be obtained from the DLL.	错误：无法从DLL获取补丁应用函数。
+strings.tbl	635			ERROR: The patch could not be completed successfully.	错误：补丁无法成功完成。
+strings.tbl	636		\n \n \n \n	An error occured while patching the Launcher, 'RedFaction.exe'.\nThe remaining files were updated successfully, but your Launcher is still out-of-date.\nWe recommend that you manually download the latest Launcher from our website:\n\n	修补启动器“RedFaction.exe”时发生错误。\n其余文件已成功更新，但你的启动器仍然过期。\n建议你从我们的网站手动下载最新启动器：\n\n
+strings.tbl	637		\n \n	\n\nDo you want to want to visit the site now?	\n\n是否现在访问该站点？
+strings.tbl	638			Error Patching the Launcher	修补启动器时出错
+strings.tbl	639			Starting up the old Red Faction Launcher...	正在启动旧版《红色派系》启动器……
+strings.tbl	640			Starting up the new Red Faction Launcher...	正在启动新版《红色派系》启动器……
+strings.tbl	641			ERROR: The Launcher could not be restarted.	错误：启动器无法重新启动
+strings.tbl	642			Red Faction Launcher Update Error	《红色派系》启动器更新错误
+strings.tbl	643			The launcher has not been updated.	启动器尚未更新
+strings.tbl	644			Master Server	主服务器
+strings.tbl	645			Default	默认
+strings.tbl	646			Framebuffer:	帧缓冲：
+strings.tbl	647			Insert Red Faction CD #2 (ESC exits game)	插入《红色派系》CD #2（按ESC退出游戏）
+strings.tbl	648			Difficulty Level	难度等级
+strings.tbl	649			Targeting Reticle	瞄准准星
+strings.tbl	650			Autoswitch Weapons	自动切换武器
+strings.tbl	651			Autoswitch Explosives	自动切换爆炸物
+strings.tbl	652			Autoswitch Priority	自动切换优先级
+strings.tbl	653		首部空格	   Move up	   上移
+strings.tbl	654		首部空格	     Move down	     下移
+strings.tbl	655			Mouse Sensitivity	鼠标灵敏度
+strings.tbl	656			Mouse Y-Invert	鼠标Y轴反转
+strings.tbl	657			Detail Level	细节等级
+strings.tbl	658			Shadows	阴影
+strings.tbl	659			Decals	贴花
+strings.tbl	660			Dynamic lighting	动态光照
+strings.tbl	661			Detail textures	细节纹理
+strings.tbl	662			Fogging	雾化
+strings.tbl	663			Anti-aliasing	抗锯齿
+strings.tbl	664			Texture resolution	纹理分辨率
+strings.tbl	665			Character detail	角色细节
+strings.tbl	666			Filtering	过滤
+strings.tbl	667			Gamma/brightness	伽马/亮度
+strings.tbl	668			Select Action	选择操作
+strings.tbl	669			Press new key...	按下新按键……
+strings.tbl	670			Trilinear	三线性
+strings.tbl	671			Bilinear	双线性
+strings.tbl	672			Sound Effects Volume	音效音量
+strings.tbl	673			Music Volume	音乐音量
+strings.tbl	674			Messages Volume	消息音量
+strings.tbl	675			Player	玩家
+strings.tbl	676			Frags	得分
+strings.tbl	677			Ping	延迟
+strings.tbl	678		%d %d	Round %d of %d	第%d轮，共%d轮
+strings.tbl	679		%d %d	End of Round %d of %d	第%d轮结束，共%d轮
+strings.tbl	680			MATCH WINNER:	比赛胜者：
+strings.tbl	681			Caps	夺旗
+strings.tbl	682			Invulnerability	无敌
+strings.tbl	683			Invulnerability picked up	已拾取无敌
+strings.tbl	684			Damage Amp	伤害增强
+strings.tbl	685			Damage Amp picked up	已拾取伤害增强
+strings.tbl	686			Super Armor	超级护甲
+strings.tbl	687			Super Armor picked up	已拾取超级护甲
+strings.tbl	688			Super Health	超级生命
+strings.tbl	689			Super Health picked up	已拾取超级生命
+strings.tbl	690			Nanoshield	纳米护盾
+strings.tbl	691			Nanoshield picked up	已拾取纳米护盾
+strings.tbl	692		首部空格	 was killed by her own hand	 被自己杀死了
+strings.tbl	693		首部空格	 was killed by his own hand	 被自己杀死了
+strings.tbl	694		首部空格 末尾空格	 was killed by 	 被杀死，凶手是 
+strings.tbl	695		首部空格	 was killed mysteriously	 神秘死亡
+strings.tbl	696		末尾空格	To all: 	对所有人：
+strings.tbl	697			Server Name	服务器名称
+strings.tbl	698			Game Type	游戏类型
+strings.tbl	699			Max Players	最大玩家数
+strings.tbl	700			Map List (click a map to add or remove it)	地图列表（点击地图可添加或移除）
+strings.tbl	701		末尾空格	Blue flag stolen by 	蓝旗被夺走，夺旗者：
+strings.tbl	702		末尾空格	Red flag stolen by 	红旗被夺走，夺旗者：
+strings.tbl	703			Blue flag returned	蓝旗已归还
+strings.tbl	704			Red flag returned	红旗已归还
+strings.tbl	705		首部空格	 switched to the Blue team	 加入了蓝队
+strings.tbl	706		首部空格	 switched to the Red team	 加入了红队
+strings.tbl	707			Error saving game, make sure savegame directory exists in Red Faction installation folder	保存游戏时出错，请确认《红色派系》安装文件夹中存在存档目录
+strings.tbl	708		首部空格	 has joined	 加入了游戏
+strings.tbl	709		首部空格	 was kicked from the game	 被踢出游戏
+strings.tbl	710		首部空格	 left the game	 离开了游戏
+strings.tbl	711		首部空格	 left the game for an unknown reason	 因未知原因离开了游戏
+strings.tbl	712		首部空格	 kicked because of broken reliable connection	 因可靠连接中断而被踢出
+strings.tbl	713		首部空格	 kicked because reliable connection could not be formed	 因无法建立可靠连接而被踢出
+strings.tbl	714		首部空格	 used invulnerability cheat	 使用了无敌作弊
+strings.tbl	715		首部空格	 was DENIED invulnerability cheat	 的无敌作弊被拒绝
+strings.tbl	716		首部空格	 feels better armed	 感觉武装更充足了
+strings.tbl	717		首部空格	 was DENIED all weapons/ammo	 的全武器/弹药被拒绝
+strings.tbl	718		首部空格	 toggled flying/walking	 切换了飞行/步行
+strings.tbl	719		首部空格	 was DENIED flying/walking cheat	 的飞行/步行作弊被拒绝
+strings.tbl	720			Score	分数
+strings.tbl	721			Fall Damage	坠落伤害
+strings.tbl	722			Team Damage	队友伤害
+strings.tbl	723			DM	DM
+strings.tbl	724			CTF	CTF
+strings.tbl	725			TeamDM	TeamDM
+strings.tbl	726			Mod	模组
+strings.tbl	727			Player Config	玩家配置
+strings.tbl	728			JOIN GAME	加入游戏
+strings.tbl	729			CREATE GAME	创建游戏
+strings.tbl	730			Type	类型
+strings.tbl	731			Filter	筛选
+strings.tbl	732			Join	加入
+strings.tbl	733			Get Servers	获取服务器
+strings.tbl	734			Add Server	添加服务器
+strings.tbl	735		首部空格	 FAV	 收藏
+strings.tbl	736			Address	地址
+strings.tbl	737		首部空格	  PING	  延迟
+strings.tbl	738			Players/max	玩家/上限
+strings.tbl	739			Refresh Selected	刷新所选
+strings.tbl	740			Refresh All	全部刷新
+strings.tbl	741			Start Server	启动服务器
+strings.tbl	742			Blasted Canyon	爆裂峡谷
+strings.tbl	743			Warlords	军阀
+strings.tbl	744			Score	比分
+strings.tbl	745			Nemesis	宿敌
+strings.tbl	746			Checkmate	将死
+strings.tbl	747			The Art of War	战争艺术
+strings.tbl	748			En Masse	大规模集结
+strings.tbl	749			The Lobby	大厅
+strings.tbl	750			Installation XJ15	XJ15设施
+strings.tbl	751			Waste Treatment Plant	废物处理厂
+strings.tbl	752			Badlands	荒地
+strings.tbl	753			Hangar 18	18号机库
+strings.tbl	754			High and Dry	高处与干地
+strings.tbl	755			Mine Warfare	Mine Warfare
+strings.tbl	756			Office Space	Office Space
+strings.tbl	757			Any Way	Any Way
+strings.tbl	758			Watch Your Step	Watch Your Step
+strings.tbl	759			Killbox	Killbox
+strings.tbl	760			Mazeway	Mazeway
+strings.tbl	761			Coffee Break	Coffee Break
+strings.tbl	762			One to the Dome	One to the Dome
+strings.tbl	763			S.R.O.	S.R.O.
+strings.tbl	764			Grey Matter	Grey Matter
+strings.tbl	765			Zig	Zig
+strings.tbl	766			Hermis	Hermis
+strings.tbl	767			Relentless	Relentless
+strings.tbl	768			No maps selected.  Please choose maps on the Options panel.	未选择地图，请在选项面板中选择地图。
+strings.tbl	769			ADV OPTIONS	高级选项
+strings.tbl	770			START	开始
+strings.tbl	771			DEDICATED	专用
+strings.tbl	772			BACK	返回
+strings.tbl	773			Weapons Stay	武器保留
+strings.tbl	774			Force Respawn	强制重生
+strings.tbl	775			Balance Teams	平衡队伍
+strings.tbl	776			Max time	最大时间
+strings.tbl	777			Max kills	最大击杀
+strings.tbl	778			Max captures	最大夺旗
+strings.tbl	779			Close Combat	近战
+strings.tbl	780			Semi-Auto	半自动
+strings.tbl	781			Heavy	重型
+strings.tbl	782			Explosive	爆炸物
+strings.tbl	783		末尾空格	To team: 	对队伍：
+strings.tbl	784			GAME	游戏
+strings.tbl	785			VIDEO	视频
+strings.tbl	786			AUDIO	音频
+strings.tbl	787			CONTROLS	控制
+strings.tbl	788			Back	返回
+strings.tbl	789			Servers	服务器
+strings.tbl	790			INTERNET	互联网
+strings.tbl	791			Quit Red Faction	退出《红色派系》
+strings.tbl	792			Are you sure you want to quit Red Faction?	确定要退出《红色派系》吗？
+strings.tbl	793			NEW	新建
+strings.tbl	794			LOAD	读取
+strings.tbl	795			Server error	服务器错误
+strings.tbl	796			Mouse 1	鼠标1
+strings.tbl	797			Mouse 2	鼠标2
+strings.tbl	798			Mouse 3	鼠标3
+strings.tbl	799			Mwheel Up	鼠标滚轮上
+strings.tbl	800			Mwheel Dn	鼠标滚轮下
+strings.tbl	801			Chat	聊天
+strings.tbl	802			Team Chat	团队聊天
+strings.tbl	803			Run Forward	向前跑
+strings.tbl	804			Run Backwards	向后跑
+strings.tbl	805			Control Config	控制配置
+strings.tbl	806			Reset all controls to factory defaults?	是否将所有控制重置为出厂默认值？
+strings.tbl	807			Fire Primary	主开火
+strings.tbl	808			Alternate Fire	副开火
+strings.tbl	809			Holster Weapon	收起武器
+strings.tbl	810			Previous Weapon	上一件武器
+strings.tbl	811			Slide Left	向左滑动
+strings.tbl	812			Slide Right	向右滑动
+strings.tbl	813			Slide Up	向上滑动
+strings.tbl	814			Slide Down	向下滑动
+strings.tbl	815			Look Down	向下看
+strings.tbl	816			Look Up	向上看
+strings.tbl	817			Turn Left	向左转
+strings.tbl	818			Turn Right	向右转
+strings.tbl	819			Multiplayer Stats	多人统计
+strings.tbl	820			Quick Save	快速保存
+strings.tbl	821			Quick Load	快速读取
+strings.tbl	822			<none>	<无>
+strings.tbl	823			Main Menu	主菜单
+strings.tbl	824			Game Over	游戏结束
+strings.tbl	825			You died, and the hopes of the Red Faction died with you.	你死了，红色派系的希望也随你而去。
+strings.tbl	826			Restart	重新开始
+strings.tbl	827			SAVE	保存
+strings.tbl	828			RETURN	返回
+strings.tbl	829			LOADING...	载入中……
+strings.tbl	830			We recommend new players begin with the training level.	建议新玩家从训练关卡开始。
+strings.tbl	831		%s	Couldn't load level: %s	无法载入关卡：%s
+strings.tbl	832			Error	错误
+strings.tbl	833		末尾空格	[Team] 	[队伍] 
+strings.tbl	834			Unnamed Server	未命名服务器
+strings.tbl	835			Player name	玩家名称
+strings.tbl	836			Character Model	角色模型
+strings.tbl	837			Enter Password	输入密码
+strings.tbl	838			THQMultiplay	THQMultiplay
+strings.tbl	839			LAN	局域网
+strings.tbl	840		首部空格	       MAP NAME	       地图名称
+strings.tbl	841		首部空格	  PLAYERS	  玩家
+strings.tbl	842			Connect	连接
+strings.tbl	843			All	全部
+strings.tbl	844			Show 1st Person Weapon	显示第一人称武器
+strings.tbl	845			Multiplayer	多人游戏
+strings.tbl	846			PLAYER	玩家
+strings.tbl	847			Skip Training	跳过训练
+strings.tbl	848			Go to Training	前往训练
+strings.tbl	849		首部空格	          SERVER NAME	          服务器名称
+strings.tbl	850		首部空格	     GAME TYPE	     游戏类型
+strings.tbl	851			Create game	创建游戏
+strings.tbl	852		\n \n	No name specified in the -dedicated command line,\nso using the first one in dedicated_server.txt\n	-dedicated命令行中未指定名称，\n因此使用dedicated_server.txt中的第一个名称\n
+strings.tbl	853		\n \n	Command line parameter -dedicated was not found,\nso using the first entry in dedicated_server.txt\n	未找到命令行参数-dedicated，\n因此使用dedicated_server.txt中的第一项\n
+strings.tbl	854		\n	Unable to open dedicated_server.txt\n	无法打开dedicated_server.txt\n
+strings.tbl	855		\n	================  Dedicated Server Settings ===============\n	================  专用服务器设置 ===============\n
+strings.tbl	856		%s \n	Using game mode '%s' in dedicated_server.txt\n	正在使用dedicated_server.txt中的游戏模式“%s”\n
+strings.tbl	857		%s \n	Unknown game type '%s' in dedicated_server.txt\n	dedicated_server.txt中的未知游戏类型“%s”\n
+strings.tbl	858		%s \n	Couldn't find game mode '%s' in dedicated_server.txt\n	在dedicated_server.txt中找不到游戏模式“%s”\n
+strings.tbl	859			Keep waiting	继续等待
+strings.tbl	860			Quit game	退出游戏
+strings.tbl	861			Timeout Warning	超时警告
+strings.tbl	862			The server has stopped responding.	服务器已停止响应。
+strings.tbl	863		末尾空格	You are on team 	你所在的队伍是
+strings.tbl	864			RED	红队
+strings.tbl	865			BLUE	蓝队
+strings.tbl	866			Join accepted.	加入已接受
+strings.tbl	867			The game you tried to join is already full.	你尝试加入的游戏已满
+strings.tbl	868			The game you tried to join is not accepting additional players.	你尝试加入的游戏不再接受其他玩家
+strings.tbl	869			The password you supplied doesn't match the game password.	你提供的密码与游戏密码不匹配
+strings.tbl	870			A player is already in the game with the same network address as you.	游戏中已有一名玩家与你的网络地址相同
+strings.tbl	871			The game is between levels, try joining again in a minute or so.	游戏正在关卡间切换，请过一会再尝试加入。
+strings.tbl	872			Something's wrong with the server and it cannot add you.	服务器出了问题，无法添加你。
+strings.tbl	873			Your data doesn't match the data the game is using.	你的数据与游戏正在使用的数据不匹配
+strings.tbl	874			Your multiplayer version isn't compatible with the server's version.	你的多人游戏版本与服务器版本不兼容
+strings.tbl	875			Reason unknown	原因未知
+strings.tbl	876			Error Joining Game	加入游戏时出错
+strings.tbl	877			Couldn't form a reliable connection to server	无法与服务器建立可靠连接
+strings.tbl	878			Game Ended	游戏已结束
+strings.tbl	879			The server ended the game.	服务器结束了游戏。
+strings.tbl	880			For unknown reasons	由于未知原因
+strings.tbl	881			You were kicked from the game by the server, or due to a bad connection.	你被服务器踢出游戏，或因连接不良被踢出。
+strings.tbl	882			Because your data is incompatible.	因为你的数据不兼容
+strings.tbl	883		首部空格	 left the game, data incompatible	 离开了游戏，数据不兼容
+strings.tbl	884			Exiting Game	正在退出游戏
+strings.tbl	885			Quit current game?	退出当前游戏？
+strings.tbl	886		末尾空格	Usage: 	用法：
+strings.tbl	887		%d	Current rate: %d	当前速率：%d
+strings.tbl	888		首部空格	 couldn't join between the levels	 无法在关卡切换期间加入
+strings.tbl	890			Timed out waiting for game state.	等待游戏状态超时。
+strings.tbl	891			<incompatible version>	<版本不兼容>
+strings.tbl	892			Use the mouse or keyboard arrow keys to enter the defuse code.	使用鼠标或键盘方向键输入拆弹密码。
+strings.tbl	893			Continue Anyway	仍然继续
+strings.tbl	894		%s \n	Screen-shots will be written in %s format\n	截图将以%s格式写入\n
+strings.tbl	895			Add All	全部添加
+strings.tbl	896			Remove All	全部移除
+strings.tbl	897			Couldn't reach THQ Multiplay.net, server list may not be up to date.	无法连接THQ Multiplay.net，服务器列表可能不是最新。
+strings.tbl	898			Enter the IP address as XXX.XXX.XXX.XXX:port.	输入IP地址，格式为XXX.XXX.XXX.XXX:端口。
+strings.tbl	899			Querying RF Game Tracker...	正在查询RF Game Tracker……
+strings.tbl	900		%d %d	Pinging servers... (%d of %d)	正在Ping服务器……(%d/%d)
+strings.tbl	901		%s	Joining %s...	正在加入%s……
+strings.tbl	902			Server List	服务器列表
+strings.tbl	903			Click the 'Get Servers' button to get a fresh list of available servers.  Click 'Refresh All' to refresh the info in the current list.	点击“获取服务器”按钮以获取可用服务器的最新列表。点击“全部刷新”以刷新当前列表中的信息。
+strings.tbl	904			Network Error	网络错误
+strings.tbl	905			Game Tracker request timed out before completion	Game Tracker请求在完成前超时
+strings.tbl	906			Could not connect to Game Tracker, check your internet connection.	无法连接Game Tracker，请检查你的互联网连接。
+strings.tbl	907			Couldn't reach THQ Multiplay.net, running in LAN-only mode.	无法连接THQ Multiplay.net，正在以仅局域网模式运行。
+strings.tbl	908			Close	关闭
+strings.tbl	909		%s	%s was granted rcon	%s获得了rcon权限
+strings.tbl	910		%s \n	Level %s in dedicated_server.txt doesn't match multi game type.\n	dedicated_server.txt中的关卡%s与多人游戏类型不匹配。\n
+strings.tbl	911		%d	Setting update rate to %d bytes/sec	正在将更新速率设置为%d字节/秒
+strings.tbl	912			Unrecognized rate setting	无法识别的速率设置
+strings.tbl	913		%d	Setting custom update rate (%d bytes/sec)	正在设置自定义更新速率（%d字节/秒）
+strings.tbl	914		\n	Available functions:\n	可用函数：\n
+strings.tbl	915		%s \n	Invalid keyword '%s'\n	无效关键字“%s”\n
+strings.tbl	916		%s \n	Unknown command '%s'\n	未知命令“%s”\n
+strings.tbl	917			[in scroll mode - press END to leave scroll mode]	[滚动模式中 - 按END离开滚动模式]
+strings.tbl	918			Multiplayer cheats have been enabled.	多人作弊已启用。
+strings.tbl	919			Multiplayer cheats have been disabled.	多人作弊已禁用。
+strings.tbl	920			Level name	关卡名称
+strings.tbl	921		%d	Rcon password must be %d characters or less	Rcon密码必须不超过%d个字符
+strings.tbl	922			Level time	关卡时间
+strings.tbl	923			days	天
+strings.tbl	924		\n \n	\nClients (ping) ----------\n	\n客户端（延迟）----------\n
+strings.tbl	925		\n	Error: Not enough parameters.\n	错误：参数不足。\n
+strings.tbl	926		%s \n	Error: '%s' is an invalid parameter\n	错误：“%s”是无效参数\n
+strings.tbl	927			No Internet Connection Detected	未检测到互联网连接
+strings.tbl	928			You should exit Red Faction and connect to the Internet.	你应退出《红色派系》并连接到互联网
+strings.tbl	929			Possible Proxy?  If not, exit RF & connect to the Internet.	可能有代理？如果没有，请退出《红色派系》并连接到互联网。
+strings.tbl	930		首部空格	 Name	 名称
+strings.tbl	931		首部空格	 Date/time	 日期/时间
+strings.tbl	932		\n  首部空格	 Game\n  time	 游戏\n  时间
+strings.tbl	933			Load	读取
+strings.tbl	934			Save Game	保存游戏
+strings.tbl	935			Game saved.	游戏已保存。
+strings.tbl	936			Save	保存
+strings.tbl	937			Your version of DirectX is less than 8.0.  It is required that you install DirectX 8.0 on your system.	你的DirectX版本低于8.0，必须在系统中安装DirectX 8.0。
+strings.tbl	938			You must install DirectX 8.0 or higher to run Red Faction.	必须安装DirectX 8.0或更高版本才能运行《红色派系》
+strings.tbl	939			Enable Vsync (Eliminates tearing)	启用垂直同步（消除撕裂）
+strings.tbl	940			D3D Rendering Cache:	D3D渲染缓存：
+strings.tbl	941			Megabytes	兆字节
+strings.tbl	942			You killed yourself!	你自杀了！
+strings.tbl	943		末尾空格	You just got beat down by 	你刚被打倒，凶手是 
+strings.tbl	944		末尾空格	You were killed by 	你被杀死，凶手是 
+strings.tbl	945		末尾空格	You killed 	你杀死了 
+strings.tbl	946		首部空格 末尾空格	 got beat down by 	 被打倒，凶手是 
+strings.tbl	947		末尾空格	The red flag was returned by 	红旗已归还，归还者：
+strings.tbl	948		末尾空格	The blue flag was returned by 	蓝旗已归还，归还者：
+strings.tbl	949			The red flag has returned	红旗已返回
+strings.tbl	950			The blue flag has returned	蓝旗已返回
+strings.tbl	951			You captured the red flag!	你夺取了红旗！
+strings.tbl	952		首部空格	 captured the red flag!	 夺取了红旗！
+strings.tbl	953			You captured the blue flag!	你夺取了蓝旗！
+strings.tbl	954		首部空格	 captured the blue flag!	 夺取了蓝旗！
+strings.tbl	955			You have stolen the enemy flag!	你夺走了敌方旗帜！
+strings.tbl	956			The enemy has stolen your flag!	敌方夺走了你的旗帜！
+strings.tbl	957			You have been banned from this server.	你已被此服务器封禁。
+strings.tbl	958		%s \n	Kicking player %s\n	正在踢出玩家%s\n
+strings.tbl	959		%s \n	Banning player %s\n	正在封禁玩家%s\n
+strings.tbl	960		\n	Invalid IP address/range specified\n	指定的IP地址/范围无效\n
+strings.tbl	961		%s \n	Banning IP: %s\n	正在封禁IP：%s\n
+strings.tbl	962		首部空格	 already selected	 已被选择
+strings.tbl	963			Name must be 20 characters or less	名称必须不超过20个字符
+strings.tbl	964			You have not properly selected your network connection in the launcher. Please exit Red Faction and run the launcher.	你没有在启动器中正确选择网络连接，请退出《红色派系》并运行启动器。
+strings.tbl	965			The rate command is only valid in multiplayer mode.	rate命令只在多人模式下有效。
+strings.tbl	966		\n \n	\nHit a key to exit...\n	\n按任意键退出……\n
+strings.tbl	967			SAVED	已保存
+strings.tbl	968			Melee Weapons	近战武器
+strings.tbl	969			Semi-Auto Weapons	半自动武器
+strings.tbl	970			Heavy Weapons	重型武器
+strings.tbl	971			Explosive Weapons	爆炸武器
+strings.tbl	972			You cannot save at this time.	此时无法保存。
+strings.tbl	973			High Rise	高楼
+strings.tbl	974			DEATHMATCH	死亡竞赛
+strings.tbl	975			CAPTURE THE FLAG	夺旗
+strings.tbl	976			TEAM DEATHMATCH	团队死亡竞赛
+strings.tbl	977			You are mortal again	你再次变得可被杀死
+strings.tbl	978			You are invulnerable!	你无敌了！
+strings.tbl	979			You feel better armed	你感觉武装更充足了
+strings.tbl	980			Mouse Btn	鼠标按钮
+strings.tbl	981			Ctrl-Mouse Btn	Ctrl-鼠标按钮
+strings.tbl	982			Extras	额外内容
+strings.tbl	983			CREDITS	制作人员
+strings.tbl	984			TRAILER	预告片
+strings.tbl	985			GLASSHOUSE	玻璃屋
+strings.tbl	986			Load Game	读取游戏
+strings.tbl	987		首部空格	   Name	   名称
+strings.tbl	988		首部空格	 Game time	游戏时间
+strings.tbl	989			No filename specified	未指定文件名
+strings.tbl	990			A file by that name already exists.  Would you like to overwrite it?	已存在同名文件，是否覆盖？
+strings.tbl	991			You cannot talk for 1 second	1秒内不能发言
+strings.tbl	992			LAN Only	仅限局域网
+strings.tbl	993		%s	You don't currently have the '%s' mod running.  See README.TXT for details on running Red Faction with mods.	你当前没有运行“%s”模组。有关使用模组运行《红色派系》的详情，请参阅README.TXT。
+strings.tbl	994		%s	You currently have the '%s' mod running.  You must run Red Faction without an active mod in order to join that server.	你当前正在运行“%s”模组。必须在未启用模组的情况下运行《红色派系》，才能加入该服务器。
+strings.tbl	995		%s	%s Dedicated Server	%s专用服务器
+strings.tbl	996			Fast animations (Recommended)	快速动画（推荐）
+strings.tbl	997			Resolution:	分辨率：
+strings.tbl	998			Name cannot be blank.	名称不能为空
+strings.tbl	999			Invalid Name	无效名称
+hud_personas.tbl	Capek	角色名 · 字幕里译作「卡佩克」		Capek	卡佩克
+hud_personas.tbl	Eos	角色名 · 字幕里译作「伊欧丝」		Eos	伊欧丝
+hud_personas.tbl	Gryphon	角色名 · 字幕里译作「格里芬」		Gryphon	格里芬
+hud_personas.tbl	Hendrix	角色名 · 字幕里译作「亨德里克斯」		Hendrix	亨德里克斯
+hud_personas.tbl	Instructor	角色名 · 屏显 Orion，字幕里译作「奥莱恩」		Orion	奥莱恩
+hud_personas.tbl	Masako	角色名 · 字幕里译作「雅子（上校）」		Masako	雅子
+hud_personas.tbl	Miner	角色名 · 矿工		Miner	矿工
+hud_personas.tbl	Ultor	角色名 · 字幕里译作「乌尔托」		Ultor	乌尔托
+hud_personas.tbl	Unknown	角色名 · 未知		Unknown	未知

@@ -1,0 +1,63 @@
+--- a/game_patch/hud/multi_scoreboard.cpp
++++ b/game_patch/hud/multi_scoreboard.cpp
+@@ -41,6 +41,10 @@
+ constexpr float ENTER_ANIM_MS = 100.0f;
+ constexpr float LEAVE_ANIM_MS = 100.0f;
+ 
++// Windows-1252 bullet. Must stay a raw byte for the .vf bitmap fonts, and must stay
++// out of any std::format format string, which has to be valid UTF-8.
++constexpr const char* SEPARATOR = "\x95";
++
+ static bool g_scoreboard_force_hide = false;
+ static bool g_scoreboard_visible = false;
+ static int64_t g_anim_ticks = 0;
+@@ -177,8 +181,9 @@
+     // Draw Game Type name
+     if (!dry_run) {
+         const std::string game_info = std::format(
+-            "{} \x95 {}/{} PLAYING",
++            "{} {} {}/{} PLAYING",
+             multi_game_type_name_upper(game_type),
++            SEPARATOR,
+             multi_num_spawned_players(),
+             rf::multi_num_players()
+         );
+@@ -205,13 +210,14 @@
+     if (!dry_run) {
+         rf::gr::set_color(0xB0, 0xB0, 0xB0, 0xFF);
+         std::string level_info = std::format(
+-            "{1} \x95 {0:%Y} ({2}) by {3}",
++            "{1} {4} {0:%Y} ({2}) by {3}",
+             std::chrono::sys_seconds{
+                 std::chrono::seconds{rf::level.level_timestamp}
+             },
+             rf::level.name,
+             rf::level.filename,
+-            rf::level.author
++            rf::level.author,
++            SEPARATOR
+         );
+         gr_fit_string(level_info, w - 20);
+         rf::gr::string_aligned(rf::gr::ALIGN_CENTER, x_center, cur_y, level_info.c_str());
+--- a/game_patch/multi/multi.cpp
++++ b/game_patch/multi/multi.cpp
+@@ -703,7 +703,7 @@
+ }
+ void send_private_message_for_cancelled_shot(rf::Player* player, const std::string& reason)
+ {
+-    auto message = std::format("\xA6 Shot canceled: {}", reason);
++    auto message = std::string("\xA6 Shot canceled: ") + reason;
+     af_send_automated_chat_msg(message, player);
+ }
+ 
+--- a/game_patch/multi/alpine_packets.cpp
++++ b/game_patch/multi/alpine_packets.cpp
+@@ -2633,7 +2633,7 @@
+                 0
+             );
+         } else {
+-            send_chat_line_packet(std::format("\xA6 {}", msg), &player);
++            send_chat_line_packet(std::string("\xA6 ") + std::string(msg), &player);
+         }
+     }
+ }

@@ -1,0 +1,23 @@
+Fix std::format_error crash from Windows-1252 bytes in format strings
+
+Four call sites embed raw Windows-1252 bytes in std::format format
+strings: \x95 (bullet) in the scoreboard, \xA6 (broken bar) in two chat
+paths. MSVC's <format> treats narrow strings as UTF-8 and validates the
+format string, and these are invalid UTF-8 lead bytes, so std::format
+throws std::format_error.
+
+The two scoreboard sites run on every scoreboard draw, which makes
+multiplayer unplayable on builds using a newer MSVC toolset. The throw
+happens inside a region covered by Red Faction's own __try/__except, so
+it is swallowed before the crash handler runs: the process just exits
+with nothing in AlpineFaction.log.
+
+Move the bytes out of the format strings, passing them as arguments or
+using plain concatenation, where no UTF-8 decoding takes place. The
+rendered bytes are unchanged, which matters in particular for \xA6: it
+is a wire-visible chat prefix that peers match with string_istarts_with,
+so it must not be re-encoded as UTF-8. It would also render as garbage
+in the Windows-1252 indexed .vf bitmap fonts.
+
+alpine_packets.cpp already built the same \xA6 prefix by concatenation
+47 lines below the site fixed here; this makes the two consistent.

@@ -1,0 +1,365 @@
+wav	en	zh
+GRD_ALERT_01.wav	Stop!	站住！
+GRD_ALERT_02.wav	Drop your weapons!	放下武器！
+GRD_ALERT_03.wav	Die, miner!	去死吧，矿工！
+GRD_ALERT_04.wav	Halt!	站住！
+GRD_ALERT_05.wav	You're dead, traitor!	你死定了，叛徒！
+GRD_ALERT_06.wav	Give up, miner!	投降吧，矿工！
+GRD_ALERT_07.wav	Die, scum!	去死吧，人渣！
+GRD_ALERT_08.wav	Hold it, miner!	别动，矿工！
+GRD_ALERT_09.wav	Stop right there!	站在那儿别动！
+GRD_ALERT_10.wav	Hey!	喂！
+GRD_ULERT_02.wav	Stop right there, Parker!	站住别动，帕克！
+GRD_ULERT_03.wav	You're that miner!	你就是那个矿工！
+GRD_ULERT_04.wav	You're Parker!	你是帕克！
+GRD_ULERT_05.wav	You're the guy everyone's after!	你就是那个被通缉的家伙！
+GRD_BATT1_01.wav	Help! Help!	救命！救命！
+GRD_BATT1_02.wav	Where's my backup?!	我的支援呢？！
+GRD_BATT1_03.wav	Better run, miner!	最好快跑，矿工！
+GRD_BATT1_04.wav	Party time!	开派对了！
+GRD_BATT1_05.wav	Just you and me, miner!	就我们俩了，矿工！
+GRD_BATT1_06.wav	Need help here?	这儿需要支援吗？
+GRD_BATT1_07.wav	Try it, miner!	来试试啊，矿工！
+GRD_BATT1_08.wav	Scum!	人渣！
+GRD_BATT1_09.wav	Come on, tough guy!	来啊，硬汉！
+GRD_BATT2_01.wav	Get him!	抓住他！
+GRD_BATT2_02.wav	Cover me!	掩护我！
+GRD_BATT2_03.wav	Get over here!	都过来！
+GRD_BATT2_04.wav	Go, go, go!	上上上！
+GRD_BATT2_05.wav	Heads up!	小心！
+GRD_BATT2_06.wav	Come on!	快点！
+GRD_BATT2_07.wav	Follow me!	跟我来！
+GRD_BATT2_08.wav	Attack! Attack!	进攻！进攻！
+GRD_BATT2_09.wav	Move in!	推进！
+GRD_BATT2_10.wav	Let's get him!	干掉他！
+GRD_COWER_01.wav	I was just following orders.	我只是奉命行事。
+GRD_COWER_02.wav	Don't shoot, I'm unarmed!	别开枪，我没武器！
+GRD_COWER_03.wav	I'll join the Red Faction, I promise!	我加入红色派系，我保证！
+GRD_COWER_04.wav	I'm on your side!	我跟你们是一边的！
+GRD_COWER_05.wav	Ultor sucks! Don't shoot me!	乌尔托烂透了！别开枪！
+GRD_COWER_06.wav	I was only doing my job!	我只是在做我的工作！
+GRD_COWER_07.wav	Don't do it, please!	别这样，求你了！
+GRD_COWER_08.wav	Mercy, please!	饶命啊！
+GRD_COWER_09.wav	I'm sorry! Really, really sorry!	对不起！真的真的对不起！
+GRD_COWER_10.wav	I don't deserve to die!	我罪不至死啊！
+GRD_PANIC_04.wav	No! Ahh!	不——！啊——！
+GRD_PANIC_05.wav	Oh no! Ahh!	不好——！啊——！
+GRDC_ALERT_01.wav	Hey you! Stop right there!	喂！站住别动！
+GRDC_ALERT_02.wav	Game's over, scum!	游戏结束了，人渣！
+GRDC_ALERT_03.wav	You're terminated, miner!	你被清除了，矿工！
+GRDC_ALERT_04.wav	Busted, mine rat!	抓到你了，矿洞老鼠！
+GRDC_ALERT_05.wav	You're gonna die, miner!	你要死了，矿工！
+GRDC_ALERT_06.wav	Surrender or die!	投降，否则受死！
+GRDC_ALERT_07.wav	Hold it, lowlife!	别动，下等人！
+GRDC_ALERT_08.wav	Traitor!	叛徒！
+GRDC_ALERT_09.wav	Say your prayers, miner.	祈祷吧，矿工。
+GRDC_ULERT_01.wav	Hey, this is my lucky day, Parker.	嘿，今天我走运了，帕克。
+GRDC_ULERT_02.wav	You! You're one of the ringleaders.	你！你是他们的头目之一。
+GRDC_ULERT_03.wav	You there! Parker!	那边那个！帕克！
+GRDC_ULERT_05.wav	You there, Parker! I know you! You're a dead man!	那边那个，帕克！我认得你！你死定了！
+GRDC_ULERT_06.wav	You're a dead man, Parker!	你死定了，帕克！
+GRDC_BATT1_01.wav	Rebel scum!	反贼人渣！
+GRDC_BATT1_02.wav	Prepare to die!	准备受死！
+GRDC_BATT1_03.wav	Protest this, miner!	来抗议这个啊，矿工！
+GRDC_BATT1_04.wav	You're a dead man!	你死定了！
+GRDC_BATT1_05.wav	Try and take me, miner.	有本事就来干掉我，矿工。
+GRDC_BATT1_06.wav	Stand still and die like a man!	站好了，死得像个男人！
+GRDC_BATT1_07.wav	Scum!	人渣！
+GRDC_BATT1_08.wav	Come get some!	有种就来！
+GRDC_BATT1_09.wav	Payback time!	该还债了！
+GRDC_BATT1_10.wav	Time to die, miner!	该死了，矿工！
+GRDC_BATT2_01.wav	Move it!	快点！
+GRDC_BATT2_02.wav	Go! Go! Go!	上！上！上！
+GRDC_BATT2_03.wav	Watch the flanks!	注意侧翼！
+GRDC_BATT2_04.wav	Take point!	带头上！
+GRDC_BATT2_05.wav	Heads up!	小心！
+GRDC_BATT2_06.wav	Flank him!	包抄他！
+GRDC_BATT2_07.wav	Stay together!	别散开！
+GRDC_BATT2_08.wav	Attack!	进攻！
+GRDC_BATT2_09.wav	Hit him hard!	往死里打！
+GRDC_BATT2_10.wav	No mercy!	别留活口！
+GRDC_COWER_01.wav	Wait, I have a family on Earth.	等等，我在地球上还有家人。
+GRDC_COWER_02.wav	Let me live and I'll never shoot another miner. I promise.	饶我一命，我再也不朝矿工开枪了，我保证。
+GRDC_COWER_03.wav	I'm really a miner, undercover.	我其实是矿工，卧底的。
+GRDC_COWER_04.wav	I give up!	我投降！
+GRDC_COWER_05.wav	I didn't ask for this promotion.	这个晋升不是我求来的。
+GRDC_COWER_06.wav	Man, I hate Mars.	老天，我恨火星。
+GRDC_COWER_07.wav	You win, you win.	你赢了，你赢了。
+GRDC_COWER_09.wav	No, don't!	不，别！
+GRDC_COWER_10.wav	I surrender.	我投降。
+MERC_ALERT_01.wav	Halt or die.	站住，否则受死。
+MERC_ALERT_02.wav	Surrender!	投降！
+MERC_ALERT_03.wav	Retreat or die.	撤退，否则受死。
+MERC_ALERT_04.wav	Die, miner!	去死吧，矿工！
+MERC_ALERT_05.wav	Die, miner. Die, scum. Got you, miner.	去死吧，矿工。去死，人渣。抓到你了，矿工。
+MERC_ALERT_06.wav	Got you, miner!	抓到你了，矿工！
+MERC_ALERT_07.wav	Death to miners.	矿工都得死。
+MERC_BATT1_01.wav	Say your prayers, miner. You don't have a chance.	祈祷吧，矿工，你没有机会的。
+MERC_BATT1_02.wav	You don't have a chance!	你没有机会的！
+MERC_BATT1_03.wav	Give up now!	立刻投降！
+MERC_BATT1_04.wav	You're dead.	你死定了。
+MERC_BATT1_05.wav	Come on, miner!	来啊，矿工！
+MERC_BATT1_06.wav	Try me, miner!	来试试我，矿工！
+MERC_BATT1_07.wav	Eat this!	吃我这一发！
+MERC_BATT2_01.wav	Watch the flanks!	注意侧翼！
+MERC_BATT2_02.wav	Heads up!	小心！
+MERC_BATT2_03.wav	Report!	报告情况！
+MERC_BATT2_04.wav	Fire!	开火！
+MERC_BATT2_05.wav	Attack!	进攻！
+MERC_BATT2_06.wav	Stand your ground!	守住阵地！
+MERC_BATT2_07.wav	Hold your ground, men!	守住阵地，弟兄们！
+MERC_BATT2_08.wav	Fire at will!	自由射击！
+MERC_BATT2_09.wav	Shoot to kill!	格杀勿论！
+MERC_COWER_01.wav	Did I ask for mercy?	我求饶了吗？
+MERC_COWER_02.wav	Go ahead. Kill me.	来啊，杀了我。
+MERC_COWER_03.wav	I'm not gonna beg for my life.	我不会求饶的。
+MERC_COWER_04.wav	You wouldn't dare.	你不敢。
+MERC_COWER_05.wav	Go ahead, I can take it.	来吧，我扛得住。
+MERC_COWER_06.wav	Stuff it, miner!	省省吧，矿工！
+MED_ALERT_01.wav	I can't help you unless you put that weapon away.	你不收起武器，我没法帮你。
+MED_ALERT_02.wav	Put that weapon away.	把武器收起来。
+MED_ALERT_03.wav	If you want help, don't threaten me.	想要帮忙，就别威胁我。
+MED_ALERT_04.wav	I can't work with a weapon in my face.	枪顶着我的脸，我没法干活。
+MED_ALERT_05.wav	Weapons make me nervous.	武器让我紧张。
+MED_ULERT_01.wav	You're with the Red Faction.	你是红色派系的人。
+MED_ULERT_02.wav	Hey, you're Parker.	嘿，你是帕克。
+MED_ULERT_03.wav	Guards, guards!	警卫，警卫！
+MED_ULERT_04.wav	It's him, hit the alarm!	是他，拉警报！
+MED_ULERT_05.wav	He's a miner!	他是个矿工！
+MED_USE_01.wav	Let me help you with that.	让我帮你处理一下。
+MED_USE_02.wav	Hold still and I'll see what I can do.	别动，我看看能做点什么。
+MED_USE_03.wav	I'll give you something for that wound.	我给你的伤口上点药。
+MED_USE_04.wav	I can fix you up.	我能把你治好。
+MED_USE_05.wav	You'll feel better in no time.	很快就会好受些。
+MED_USE_06.wav	Here, let me take a look at that.	来，我看看伤口。
+MED_USE_07.wav	Nasty wound you have there.	你这伤口够呛。
+MED_USE_08.wav	Nasty wound you have there. This will take just a second. I'll fix you up, but don't tell my boss.	你这伤口够呛。一会儿就好。我帮你治，但别告诉我上司。
+MED_USE_09.wav	I'll fix you up, but don't tell my boss.	我帮你治，但别告诉我上司。
+MED_USENW_01.wav	Just be happy you're not hurt.	你没受伤，该偷着乐了。
+MED_USENW_02.wav	Move on, I have wounded to attend to.	走吧，我还有伤员要照顾。
+MED_USENW_03.wav	You're as healthy as a horse.	你壮得像头牛。
+MED_USENW_04.wav	You don't need my help.	你不需要我帮忙。
+MED_USENW_05.wav	Come back when you've got a wound for me to heal.	等你受伤了再来找我。
+MED_USENW_06.wav	Can't help you unless you're hurt.	你没受伤，我帮不了你。
+MED_GONE_01.wav	Sorry, I've run out of supplies.	抱歉，我的药品用完了。
+MED_GONE_02.wav	I can't help you, my supplies are gone.	我帮不了你，药品都没了。
+MED_GONE_03.wav	Sorry, but my med kit's empty.	抱歉，我的医疗包空了。
+MED_GONE_04.wav	Find someone else to heal you. I can't do anymore.	找别人治吧，我无能为力了。
+MED_GONE_05.wav	I'd help you if I could, but I've used up my supplies.	能帮我肯定帮，可我的药品都用光了。
+MED_COWER_01.wav	Don't kill me, I'm a medic.	别杀我，我是医生。
+MED_COWER_02.wav	Don't shoot me, I can help you.	别开枪，我能帮你。
+MED_COWER_03.wav	Wait, I'm unarmed.	等等，我没武器。
+MED_COWER_04.wav	I'm here to help you.	我是来帮你的。
+MED_COWER_05.wav	I don't have a weapon.	我没有武器。
+MED_COWER_06.wav	I'm not your enemy.	我不是你的敌人。
+MED_TIMEO_01.wav	This won't hurt a bit, that's my motto.	一点都不疼，这是我的座右铭。
+MED_TIMEO_02.wav	Between you and me, I hate Ultor.	私下跟你说，我恨乌尔托。
+MED_TIMEO_03.wav	Believe it or not, I used to faint at the sight of blood.	信不信由你，我以前见血就晕。
+MED_TIMEO_04.wav	This is nothing compared to the last ER I worked in.	比起我上一家急诊室，这儿算什么。
+MED_TIMEO_05.wav	I could really go for a roast beef sandwich right now.	这会儿真想来个烤牛肉三明治。
+MED_TIMEO_06.wav	I'm getting really sick of this place.	我真是受够这地方了。
+MED_TIMEO_07.wav	Ever have one of those days?	你有过这种日子吗？
+MED_TIMEO_08.wav	Death cures all woes. That's my motto.	死亡治愈一切烦恼，这是我的座右铭。
+MED_PANIC_03.wav	No, no, no!	不、不、不——！
+MED_PANIC_05.wav	Ahh!	啊——！
+NUR_ALERT_01.wav	Put your weapon away so I can help you.	把武器收起来，我才能帮你。
+NUR_ALERT_02.wav	Put the weapon away or bleed, your choice.	收起武器，或者继续流血，你自己选。
+NUR_ALERT_03.wav	Quit waving that thing in my face.	别拿那玩意儿在我脸前晃。
+NUR_ALERT_04.wav	You want help? Then holster it.	想要帮忙？那就把枪收起来。
+NUR_ALERT_05.wav	Don't threaten me!	别威胁我！
+NUR_ALERT_06.wav	Weapons make me nervous.	武器让我紧张。
+NUR_UALERT_01.wav	You're with the Red Faction!	你是红色派系的人！
+NUR_UALERT_02.wav	Hey, you're Parker!	嘿，你是帕克！
+NUR_UALERT_03.wav	You're the guy who started all this.	这一切就是你挑起来的。
+NUR_UALERT_04.wav	Hey, I recognize you. Guards!	嘿，我认得你。警卫！
+NUR_USE_01.wav	You want me to patch that for you?	要我帮你包扎一下吗？
+NUR_USE_02.wav	Let's take a look at that.	来看看伤口。
+NUR_USE_03.wav	This will do the trick.	这个管用。
+NUR_USE_04.wav	A little antibiotic and you're on your way.	上点抗生素你就能走了。
+NUR_USE_05.wav	That'll hold you.	这样能撑一阵。
+NUR_USE_06.wav	Hold still and let me do my job.	别动，让我干活。
+NUR_USE_07.wav	Oh, that looks nasty, but I can handle it.	哟，看着挺吓人，不过我能处理。
+NUR_USE_08.wav	I'll fix you up, but don't tell anyone.	我帮你治，但别跟人说。
+NUR_USENW_01.wav	If you're not wounded, you're in the wrong place.	没受伤的话，你来错地方了。
+NUR_USENW_02.wav	Come back when you're wounded.	等你受伤了再来。
+NUR_USENW_03.wav	If you're healthy, you don't belong here.	身体好好的，就别待在这儿。
+NUR_USENW_04.wav	Move on, I have wounded to attend to.	走吧，我还有伤员要照顾。
+NUR_USENW_05.wav	I'm not wasting supplies on healthy people.	我不会把药浪费在健康人身上。
+NUR_USENW_06.wav	I don't see any blood.	我没看见你流血啊。
+NUR_GONE_01.wav	Go find a doctor. I can't help anyone right now.	去找医生吧，我现在谁也帮不了。
+NUR_GONE_02.wav	My med kit's empty. Sorry.	我的医疗包空了，抱歉。
+NUR_GONE_03.wav	I can't heal you. No more supplies.	我治不了你，没药品了。
+NUR_GONE_04.wav	I'm out of medical supplies. Would you like a lollipop?	医疗物资用完了。要不要来根棒棒糖？
+NUR_GONE_05.wav	My supplies are all gone. Maybe someone else can help you.	我的药品全没了，也许别人能帮你。
+NUR_COWER_01.wav	Don't kill me. I'm a nurse.	别杀我，我是护士。
+NUR_COWER_02.wav	No, please!	不，求你了！
+NUR_COWER_03.wav	I'm no threat to you!	我对你没有威胁！
+NUR_COWER_04.wav	I can't help you if I'm dead!	我死了就帮不了你了！
+NUR_COWER_05.wav	Wait! I'm on your side!	等等！我跟你是一边的！
+NUR_COWER_06.wav	You wouldn't shoot a woman, would you?	你不会朝女人开枪吧？
+NUR_TIMEO_01.wav	Patch them up and send them back. That's my motto.	包好了就送回去，这是我的座右铭。
+NUR_TIMEO_02.wav	Ugh, the doctors here are such pompous jerks.	唉，这儿的医生一个个自大得要命。
+NUR_TIMEO_03.wav	This place makes me sick.	这地方让我恶心。
+NUR_TIMEO_04.wav	Ugh, this is nothing compared to the last ER I worked in.	唉，比起我上一家急诊室，这儿算什么。
+NUR_TIMEO_05.wav	Six more hours until my shift is over.	还有六小时才下班。
+NUR_TIMEO_06.wav	And I thought I had it tough at the nursing home.	我还以为在养老院就够苦了。
+NUR_TIMEO_07.wav	If I survive this, I'm going to vet school.	要是能活下来，我就去读兽医。
+NUR_TIMEO_08.wav	It was this or an ER back on Earth.	要么来这儿，要么回地球的急诊室。
+NUR_TIMEO_09.wav	I'm working here to pay off my student loans.	我在这儿干活是为了还助学贷款。
+NUR_TIMEO_10.wav	Okay, you're starting to creep me out.	好了，你开始让我发毛了。
+TECH_ALERT_01.wav	Guards! A miner!	警卫！有矿工！
+TECH_ALERT_02.wav	Over here! Help!	这边！救命！
+TECH_ALERT_03.wav	You don't belong in here.	你不该到这儿来。
+TECH_ALERT_04.wav	Go away or I'll call the guards.	快走，不然我叫警卫了。
+TECH_ALERT_05.wav	Sound the alarm!	拉警报！
+TECH_ALERT_06.wav	Get out of here! Now!	滚出去！马上！
+TECH_ALERT_07.wav	This is a classified area! Guards!	这里是机密区域！警卫！
+TECH_ULERT_01.wav	Say, aren't you Parker?	等等，你不是帕克吗？
+TECH_ULERT_02.wav	Hey, you're with the Red Faction.	嘿，你是红色派系的人。
+TECH_ULERT_03.wav	That's you on those posters.	通缉令上那个人就是你。
+TECH_ULERT_04.wav	I know you. You're Parker.	我认得你，你是帕克。
+TECH_ULERT_05.wav	You're not one of us.	你不是我们的人。
+TECH_ULERT_06.wav	You're Parker.	你是帕克。
+TECH_USE_01.wav	I'm not taking sides in this conflict.	这场冲突我不站队。
+TECH_USE_02.wav	My place is here with my work.	我的位置在这儿，守着我的活。
+TECH_USE_03.wav	Please, don't ask me to interfere.	拜托，别叫我掺和。
+TECH_USE_04.wav	There's nothing for you here. Please leave.	这儿没你要的东西，请走吧。
+TECH_USE_05.wav	Come back later. I have no time now.	晚点再来，我现在没空。
+TECH_USE_06.wav	Ultor has been very good to me.	乌尔托待我不薄。
+TECH_USE_07.wav	Just let me do my work, okay?	让我干我的活，行吗？
+TECH_USE_08.wav	Sorry, I'm too busy.	抱歉，我太忙了。
+TECH_USE_09.wav	Don't you have somewhere else to be?	你不该待在别的地方吗？
+TECH_USE_10.wav	Leave, please. Guards will be here soon.	请走吧，警卫马上就到。
+TECH_COWER_01.wav	Please, leave me alone!	求你了，别管我！
+TECH_COWER_02.wav	I'm unarmed!	我没武器！
+TECH_COWER_03.wav	I haven't done anything wrong!	我什么坏事都没做！
+TECH_COWER_04.wav	Don't hurt me! Please!	别伤害我！求你了！
+TECH_COWER_05.wav	Go away! Leave me alone!	走开！别管我！
+TECH_COWER_06.wav	I'm just doing my job!	我只是在做我的工作！
+TECH_COWER_07.wav	Wait! I'm on your side!	等等！我跟你是一边的！
+TECH_COWER_08.wav	Some of my best friends are miners.	我最好的朋友里就有矿工。
+TECH_COWER_09.wav	I didn't do anything!	我什么都没做！
+TECH_COWER_10.wav	Wait! I hate Ultor too!	等等！我也恨乌尔托！
+TECH_TIMEO_01.wav	I can't wait to get back to Earth.	我等不及要回地球了。
+TECH_TIMEO_02.wav	I love it here on Mars.	我喜欢火星这地方。
+TECH_TIMEO_03.wav	I don't have time for this.	我没工夫管这个。
+TECH_TIMEO_04.wav	I just want to work in peace.	我只想安安静静地干活。
+TECH_TIMEO_05.wav	This job sucks.	这工作烂透了。
+TECH_TIMEO_06.wav	If I live through this, I'm going back to Earth.	要是能活着出去，我就回地球。
+TECH_TIMEO_07.wav	Those miners are never happy.	那些矿工就没满意过。
+TECH_TIMEO_08.wav	Why does there have to be so much killing?	为什么非得死这么多人？
+TECH_TIMEO_09.wav	When my shift's over, I'm gonna go play video games.	下了班我要去打游戏。
+TECH_TIMEO_10.wav	You should get out of here before you get in trouble.	趁没惹上麻烦，你还是快走吧。
+ADMM_ALERT_01.wav	Guards, come quickly!	警卫，快来！
+ADMM_ALERT_02.wav	How'd you get in here?	你怎么进来的？
+ADMM_ALERT_03.wav	We're under attack!	我们遭到袭击了！
+ADMM_ALERT_04.wav	Security on the double!	保安快点过来！
+ADMM_ALERT_05.wav	Someone sound the alarm!	谁来拉警报啊！
+ADMM_ALERT_06.wav	Guards, there's a miner here!	警卫，这儿有个矿工！
+ADMM_ALERT_07.wav	Call security now!	马上叫保安！
+ADMM_ULERT_01.wav	Help, someone! It's Parker!	来人啊！是帕克！
+ADMM_ULERT_02.wav	The Red Faction's here!	红色派系来了！
+ADMM_ULERT_03.wav	It's the guy on the wanted posters!	是通缉令上那个人！
+ADMM_ULERT_04.wav	Guards! Parker's in here!	警卫！帕克在这儿！
+ADMM_ULERT_05.wav	I know you! Guards!	我认得你！警卫！
+ADMM_USE_01.wav	That's not my job.	那不归我管。
+ADMM_USE_02.wav	That's not my job. I'm a busy man and you're wasting my time.	那不归我管。我很忙，你在浪费我时间。
+ADMM_USE_03.wav	Put it in writing and I'll consider it.	写成书面材料，我再考虑。
+ADMM_USE_04.wav	I'm not interested in your problems.	我对你的问题不感兴趣。
+ADMM_USE_05.wav	Go away, I'm busy.	走开，我很忙。
+ADMM_COWER_01.wav	Please, can't we work this out?	拜托，我们不能好好谈谈吗？
+ADMM_COWER_02.wav	You've no right to do this.	你没权利这么做。
+ADMM_COWER_03.wav	How can you treat me this way?	你怎么能这样对我？
+ADMM_COWER_04.wav	I'm only doing my job.	我只是在做我的工作。
+ADMM_COWER_05.wav	I'm a big supporter of the labor movement.	我可是工人运动的坚定支持者。
+ADMM_COWER_06.wav	Shoot me and you're fired!	敢开枪你就被开除了！
+ADMM_TIMEO_02.wav	Time to start updating my resume.	该更新简历了。
+ADMM_TIMEO_03.wav	I should have taken that seminar on conflict negotiation.	我真该去上那个冲突谈判的培训班。
+ADMM_TIMEO_04.wav	Only miners would create this kind of mess.	也就矿工能搞出这种烂摊子。
+ADMM_TIMEO_05.wav	Miners have no idea what pressure management is under.	矿工根本不懂管理层承受多大压力。
+ADMM_Panic_01.wav	Oh no! Oh! Oh!	不好了——！啊！啊！
+ADMM_PANIC_03.wav	No! No! No!	不！不！不！
+ADMF_ALERT_01.wav	Help! Help!	救命！救命！
+ADMF_ALERT_02.wav	Hey, you don't belong here.	喂，你不该在这儿。
+ADMF_ALERT_03.wav	Security! We need help now!	保安！我们现在就要支援！
+ADMF_ALERT_04.wav	A miner! Call for help!	有矿工！快叫人！
+ADMF_ALERT_05.wav	Call security now!	马上叫保安！
+ADMF_ULERT_01.wav	You're Parker!	你是帕克！
+ADMF_ULERT_02.wav	I saw you on the wanted posters.	我在通缉令上见过你。
+ADMF_ULERT_03.wav	You're the one they're after.	你就是他们在追的那个人。
+ADMF_ULERT_04.wav	That's a lousy disguise, Parker.	这伪装也太差劲了，帕克。
+ADMF_USE_01.wav	Go away. You're not my type.	走开，你不是我的菜。
+ADMF_USE_02.wav	Keep your distance, please.	请保持距离。
+ADMF_USE_03.wav	Sorry, I have a report to finish.	抱歉，我还有份报告要写完。
+ADMF_USE_04.wav	Do you think I'm your secretary?	你当我是你的秘书吗？
+ADMF_USE_05.wav	Sorry, I'm busy.	抱歉，我很忙。
+ADMF_COWER_01.wav	You wouldn't hurt a woman, would you?	你不会对女人下手吧？
+ADMF_COWER_02.wav	Don't shoot me.	别朝我开枪。
+ADMF_COWER_03.wav	Just go away.	你走开就是了。
+ADMF_COWER_04.wav	Let me live, and I'll put you in for a promotion.	饶我一命，我给你报个晋升。
+ADMF_COWER_05.wav	I had nothing to do with any of this.	这些事跟我一点关系都没有。
+ADMF_TIMEO_01.wav	Last week I told them to call in a negotiator. But did they listen?	上周我就说该请个谈判专家，可他们听了吗？
+ADMF_TIMEO_02.wav	A little respect is all I've ever asked for.	我要的不过是一点尊重。
+ADMF_TIMEO_03.wav	I know they're going to find a way to blame this all on me.	我就知道他们最后会想办法把责任推到我头上。
+ADMF_TIMEO_04.wav	You're making me uncomfortable.	你让我很不自在。
+ADMF_TIMEO_05.wav	Don't you have someplace else to be?	你不该待在别的地方吗？
+MIN_ALERT_01.wav	Reinforcements!	援军来了！
+MIN_ALERT_02.wav	Glad you could make it.	你能来太好了。
+MIN_ALERT_03.wav	It's about time!	可算来了！
+MIN_ALERT_04.wav	About time you got here.	你可算到了。
+MIN_ULERT_01.wav	Hey, aren't you one of us?	嘿，你不是我们的人吗？
+MIN_ULERT_02.wav	Hey Parker, glad you're here.	嘿帕克，你来了太好了。
+MIN_ULERT_03.wav	Glad to meet you, Parker.	很高兴见到你，帕克。
+MIN_ULERT_04.wav	Doing a great job, Parker.	干得漂亮，帕克。
+MIN_ULERT_05.wav	Sure glad you're on our side, Parker.	真庆幸你站在我们这边，帕克。
+MIN_ULERT_06.wav	Parker!	帕克！
+MIN_USE_01.wav	You go ahead.	你先走吧。
+MIN_USE_02.wav	I'll stay here and hold this position.	我留在这儿守住阵地。
+MIN_USE_03.wav	My orders are to stay here.	我接到的命令是待在这儿。
+MIN_USE_04.wav	I'm sorry, I can't help you.	抱歉，我帮不了你。
+MIN_USE_05.wav	I have my orders.	我有我的命令。
+MIN_BATT2_01.wav	Attack! Attack!	进攻！进攻！
+MIN_BATT2_02.wav	Watch your backs, miners!	当心背后，矿工们！
+MIN_BATT2_06.wav	Red Faction!	红色派系！
+MIN_BATT2_07.wav	Freedom!	自由！
+MIN_COWER_01.wav	Please, let me live!	求你了，饶我一命！
+MIN_COWER_02.wav	Please, don't shoot!	求你了，别开枪！
+MIN_COWER_03.wav	I'll go back to work, I promise.	我这就回去干活，我保证。
+MIN_COWER_04.wav	I'm a peaceful man.	我是个与世无争的人。
+MIN_COWER_05.wav	Don't shoot, I give up.	别开枪，我投降。
+MIN_COWER_06.wav	Don't hurt me, please!	别伤害我，求你了！
+MIN_TIMEO_01.wav	Well, I did ask for adventure.	嗯，我确实说过想要点刺激。
+MIN_TIMEO_02.wav	I suppose I'll be looking for a new job soon.	看来我很快就要找新工作了。
+MIN_TIMEO_03.wav	If I survive this, I'm moving to the asteroid belt.	要是能活下来，我就搬去小行星带。
+MIN_TIMEO_05.wav	Maybe we should just give up.	也许我们该放弃算了。
+MIN_TIMEO_06.wav	It's quiet out there. Too quiet.	外面很安静，太安静了。
+MIN_PANIC_03.wav	Ahh!	啊——！
+MINF_ALERT_01.wav	Hi.	嗨。
+MINF_ALERT_02.wav	Sure glad to see you.	见到你真高兴。
+MINF_ALERT_03.wav	Hey, over here.	嘿，这边。
+MINF_ALERT_04.wav	Are you here to relieve me?	你是来换我班的吗？
+MINF_ULERT_01.wav	Aren't you Parker?	你不是帕克吗？
+MINF_ULERT_02.wav	Parker, I almost didn't recognize you.	帕克，我差点没认出你来。
+MINF_ULERT_03.wav	Don't worry, I won't give you away, Parker.	放心，我不会出卖你的，帕克。
+MINF_USE_01.wav	I'm busy, ask someone else.	我忙着呢，问别人去。
+MINF_USE_02.wav	You just stay out of my way, buddy.	别挡我道，伙计。
+MINF_USE_03.wav	I'm staying right here.	我就待在这儿。
+MINF_USE_04.wav	I hope this is all over soon.	但愿这一切早点结束。
+MINF_USE_05.wav	I hate Mars!	我恨火星！
+MINF_BATT2_01.wav	Red Faction!	红色派系！
+MINF_BATT2_02.wav	Die, Ultor!	去死吧，乌尔托！
+MINF_BATT2_03.wav	Help me!	救我！
+MINF_BATT2_04.wav	Let's get him!	干掉他！
+MINF_BATT2_05.wav	Freedom or death!	不自由，毋宁死！
+MINF_COWER_01.wav	Don't hurt me.	别伤害我。
+MINF_COWER_02.wav	Don't shoot, please!	别开枪，求你了！
+MINF_COWER_03.wav	I don't wanna die!	我不想死！
+MINF_COWER_04.wav	I'll go back to work.	我这就回去干活。
+MINF_TIMEO_01.wav	Live free or die, that's my motto.	不自由，毋宁死，这是我的座右铭。
+MINF_TIMEO_02.wav	Working on Mars was supposed to build my character.	来火星干活本来是为了磨练性格。
+MINF_TIMEO_03.wav	Where else can we make this kind of money?	还有哪儿能挣这么多钱？
+MINF_TIMEO_04.wav	Eos is my inspiration.	伊欧丝是我的榜样。
+MINF_TIMEO_05.wav	I'm going back to Earth when this is over.	这事一完我就回地球。
+MIN_BATT2_03.wav	Work together, miners!	齐心协力，矿工们！
+MIN_BATT2_04.wav	Stay together!	别散开！
+MIN_BATT2_05.wav	Make every shot count!	每一枪都别浪费！

@@ -1,0 +1,62 @@
+track	start_ms	end_ms	en	zh	note
+RFCS_02_FinalMix.wav	0	2140	Stop. Don't shoot. I can help you.	住手，别开枪，我能帮你。	格里芬
+RFCS_02_FinalMix.wav	4080	5260	You're Gryphon, right?	你是格里芬，对吧？	帕克
+RFCS_02_FinalMix.wav	6360	8240	Deputy Administrator Gryphon? Yes.	副行政主管格里芬？是我。	格里芬自问自答
+RFCS_02_FinalMix.wav	8240	10720	Why do I need your help? I'm the one with the gun.	我为什么需要你帮忙？枪在我手上。	帕克
+RFCS_02_FinalMix.wav	10940	14340	I have vital information. You must take me to Eos.	我有关键情报，你必须带我去见伊欧丝。	格里芬
+RFCS_02_FinalMix.wav	14720	16360	What do you know about Eos?	你知道伊欧丝什么？	帕克
+RFCS_02_FinalMix.wav	16740	20480	Ultor knows all about her. They set this whole thing up.	乌尔托对她了如指掌，这整件事就是他们设的局。	格里芬
+RFCS_02_FinalMix.wav	21440	22800	You must take me to her.	你必须带我去见她。	
+RFCS_02_FinalMix.wav	23360	25280	What do you mean they set this whole thing up?	你说这是他们设的局，什么意思？	帕克
+RFCS_02_FinalMix.wav	25660	28120	No time to explain. Take me to Eos.	没时间解释了，带我去见伊欧丝。	格里芬
+RFCS_02_FinalMix.wav	28120	30100	I'll tell her everything I know.	我知道的都会告诉她。	格里芬
+RFCS_02_FinalMix.wav	30150	31420	Explain it to me first.	先跟我说清楚。	帕克
+RFCS_02_FinalMix.wav	32520	36520	I'll tell you what I can on the way, but more guards are going to show up soon.	我尽量在路上跟你说，很快会有更多警卫过来的。	识别为 in a way，按语境应为 on the way
+RFCS_02_FinalMix.wav	40080	44500	I'm right behind you. Betray me or try to run, and you'll be the first to die.	我就在你后面。敢出卖我或者想跑，你第一个死。	帕克
+RFCS_02_FinalMix.wav	45300	49120	Put that gun away. If the guards see you with it, we're both dead.	把枪收起来。让警卫看见的话，我们俩都得死。	识别含糊，按语境补全
+RFCS_03_FinalMix.wav	3740	8480	Yeah, yeah, Parker, great job. You can pose for pictures later. We gotta keep moving.	行了行了，帕克，干得漂亮。照相以后再说，我们得赶路。	格里芬
+RFCS_03_FinalMix.wav	10560	15600	Shut up, Weasel! If Eos didn't want you, you'd be dead by now. I'll decide when it's time to go.	闭嘴，黄鼠狼！要不是伊欧丝要你，你早没命了。什么时候走我说了算。	帕克
+RFCS_03_FinalMix.wav	19940	21180	Okay, let's go.	好吧，走。	
+RFCS_03_FinalMix.wav	23540	26000	Hoof it! I'm not carrying your sorry butt anymore.	快走！别指望我再拖着你。	帕克
+RFCS_03_FinalMix.wav	34620	40080	Parker! Gryphon! Over here! We're here to take Gryphon to Eos.	帕克！格里芬！这边！我们来接格里芬去见伊欧丝。	红色派系成员
+RFCS_03_FinalMix.wav	41320	42180	Thank God.	谢天谢地。	格里芬
+RFCS_03_FinalMix.wav	43460	46980	Well, whatever. Let's get moving before security shows up.	随便吧。趁警卫还没来，赶紧走。	
+RFCS_03_FinalMix.wav	51360	55380	And not you, Parker. Just the weasel here. Eos will contact you.	你不去，帕克，只带这只黄鼠狼。伊欧丝会联系你。	
+RFCS_03_FinalMix.wav	60000	67780	Well, thanks Parker, and good luck. And hey, don't you start calling me Weasel too.	那，谢了帕克，祝你好运。还有，你可别也跟着叫我黄鼠狼。	格里芬
+RFCS_03_FinalMix.wav	70540	72460	Great. Screwed again.	好极了，又被涮了。	帕克
+RFCS_04_FinalMix.wav	0	8800	Parker, how nice to see you. I must thank you for starting this little diversion. It has made my work so much easier.	帕克，见到你真好。我该谢谢你搞出这场小骚乱，它让我的工作轻松了不少。	卡佩克
+RFCS_04_FinalMix.wav	9900	11900	What's that mean, you half-human freak?	什么意思，你这个半人不人的怪物？	帕克
+RFCS_04_FinalMix.wav	12340	23720	These troubles have given me the perfect excuse to accelerate my experiments. Who will notice a few more vanished miners in all this confusion?	这些乱子给了我加速实验的绝佳借口。这么混乱，谁还会注意到又少了几个矿工？	卡佩克
+RFCS_04_FinalMix.wav	24860	27720	To hell with orders! Die, Capek!	去他的命令！去死吧，卡佩克！	帕克
+RFCS_04_FinalMix.wav	32460	37820	Congratulations, Parker. You were the first to see my nanotech shield in action.	恭喜你，帕克，你是头一个见识我纳米护盾的人。	卡佩克
+RFCS_04_FinalMix.wav	40140	46980	Now I must return to my work. Enjoy what little time you have left, you and your friends.	我得回去工作了，你和你的朋友们就好好享受你们剩下的那点时间吧。	卡佩克
+RFCS_05_FinalMix.wav	2800	4960	Parker, stop! Don't kill him!	帕克，住手！别杀他！	伊欧丝
+RFCS_05_FinalMix.wav	8420	11420	Don't kill him? He's killed hundreds of miners.	别杀他？他害死了几百个矿工。	帕克
+RFCS_05_FinalMix.wav	12720	15720	And hundreds more will die unless we find a cure for the plague.	要是找不到瘟疫的解药，还会再死几百个。	伊欧丝
+RFCS_05_FinalMix.wav	18440	24040	We can't save the miners who are dead already, but we might save those who are dying. He's their only hope.	死了的救不回来了，但还在病的也许能救，他是他们唯一的指望。	伊欧丝
+RFCS_05_FinalMix.wav	27520	30220	Hope? Who has hope?	指望？谁还有指望？	卡佩克
+RFCS_05_FinalMix.wav	33520	37500	If you have hope, you just don't understand yet.	你要还有指望，只能说明你还没想明白。	卡佩克
+RFCS_05_FinalMix.wav	40100	43460	My work... all gone.	我的心血……全没了。	识别为 I'm gonna work all gone，语法不通；按语境判定，待确认
+RFCS_05_FinalMix.wav	44320	47580	Capek, the plague, there's got to be a cure.	卡佩克，那场瘟疫，一定有解药。	伊欧丝
+RFCS_05_FinalMix.wav	48440	49400	Simple, really.	很简单。	卡佩克
+RFCS_05_FinalMix.wav	50460	51820	Stop the replicators.	让复制体停下来。	卡佩克
+RFCS_05_FinalMix.wav	51820	56180	But how? How do you stop them?	可是怎么停？要怎么让它们停下来？	伊欧丝
+RFCS_05_FinalMix.wav	56880	58500	Antidote, of course.	当然是靠解药。	卡佩克
+RFCS_05_FinalMix.wav	58500	61720	Come on, Eos. Let's finish him and get out of here.	别问了，伊欧丝。做掉他，我们走。	帕克
+RFCS_05_FinalMix.wav	61980	65900	We need that antidote, Parker. If you're not going to help, shut up.	我们需要那份解药，帕克，你不帮忙就闭嘴。	伊欧丝
+RFCS_05_FinalMix.wav	67380	68800	Where is the antidote?	解药在哪？	伊欧丝
+RFCS_05_FinalMix.wav	70420	75320	Why help you? Hope you all die.	我凭什么帮你们？我巴不得你们全死光。	卡佩克
+RFCS_05_FinalMix.wav	77880	78280	Damn!	该死！	
+RFCS_05_FinalMix.wav	80720	85000	The formula's got to be in his computer files. Maybe Hendrix can help.	配方肯定在他的电脑文件里，也许亨德里克斯能帮上忙。	伊欧丝
+RFCS_05_FinalMix.wav	86400	90480	Parker, you've got to get out of here. One of us has to live through this.	帕克，你得离开这儿，我们总得活下来一个。	伊欧丝
+RFCS_05_FinalMix.wav	90680	92260	No! I'm not gonna leave!	不！我不走！	帕克
+RFCS_05_FinalMix.wav	92340	98880	No time to argue. Go out the way I came in. If I don't make it, you must tell people there's a cure for the plague.	没时间争了，从我进来的路出去。我要是回不来，你一定要告诉大家瘟疫有解药。	伊欧丝
+RFCS_06_FinalMix.wav	3320	5680	Sure hope this works.	但愿这管用。	
+RFCS_06_FinalMix.wav	11640	13700	Come on, come on...	快啊，快啊……
+RFCS_06_FinalMix.wav	14700	16240	Hold it right there!	站住别动！	他人喝止
+RFCS_07_FinalMix.wav	4120	6100	Mom said I'd come to a bad end.	我妈说过我不得好死。	
+RFCS_07_FinalMix.wav	7000	8000	This one's for you, Mom.	这一下是为你，妈。	
+RFCS_07_FinalMix.wav	14480	16540	Manual launch override engaged.	手动发射超控已启动。	广播
+RFCS_07_FinalMix.wav	17060	18660	Thirty seconds until launch.	距发射三十秒。	广播
+RFCS_09_FinalMix.wav	6060	10680	Escape pod number two, detaching in five seconds.	二号逃生舱，五秒后脱离。	广播
+RFCS_09_FinalMix.wav	11420	15880	Four, three, two, one, detach.	四、三、二、一，脱离。	广播

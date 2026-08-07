@@ -1,0 +1,17 @@
+本仓库内的译文、语音转写、构建工具与文档，采用
+知识共享 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可协议。
+
+    https://creativecommons.org/licenses/by-sa/4.0/deed.zh
+
+例外：
+
+  patches/apply_patch.py 描述的是对 Alpine Faction 的修改。
+  Alpine Faction 遵循 Mozilla Public License 2.0，
+  打好补丁的完整源码见本仓库的 rf-cn 分支。
+  MPL-2.0 全文见 LICENSE-MPL-2.0.txt。
+
+  upstream-pr-veh/exception_logger.cpp 是提交给 Alpine Faction 上游的代码，
+  同样遵循 MPL-2.0。
+
+《红色派系》(Red Faction) 版权归 Volition 及 THQ Nordic 所有。
+本项目与两者均无隶属关系。
